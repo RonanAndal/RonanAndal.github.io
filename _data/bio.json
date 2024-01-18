@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ronan Russel Andal",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/RonanAndal.png",
+    "email": "rrandal@hawaii.edu",
+    "phone": "808-782-6101",
+    "website": "https://RonanAndal.github.io",
+    "summary": "Student pursuing a BA in computer science at the University of Hawaii at Manoa with a GPA of 3.00. Currently balacning academic responsibilities with a part time job. Excirted to learn from industry professionals and establish lasting connections in the computer science field.",
+    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "RonanAndal", "url": "http://github.com/RonanAndal" },
+      { "network": "linkedin", "username": "RonanAndal", "url": "http://linkedin.com/in/RonanAndal" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
     { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "Video editting" },
     { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Graphic design" }
   ],
   "skills": [
     {
