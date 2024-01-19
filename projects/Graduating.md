@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: ![IMG_7824](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/52622e0e-0101-444b-87d1-6da686c81d53)
+image: ![IMG_7824 2](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/367f4f26-00ce-420b-a83a-8da16f311f65)
+
 
 title: "Graduating High School"
 date: 2020
