@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/Group photo 2.png
+image: img/cotton/Group photo 2.jpeg
 
 
 title: "Malama Maunalua"
