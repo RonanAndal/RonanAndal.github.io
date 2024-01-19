@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: ![Group photo 2](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/8d33e347-4ec7-49fb-b923-8e8d9de0416b)
+
 title: "Malama Maunalua"
 date: 2021
 published: true
@@ -10,7 +11,9 @@ labels:
 summary: "Got to work with an organization called Malama Maunalua, & helped them clean up MaunaLua Bay Park as well as study the invasive algae along the way"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+![Group photo 1](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/ab9f6ea5-00e0-4123-ac71-bfcdf44fc59c)
+
+![Malama MaunaLua](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/a748a3db-8e32-4afd-abf5-327b9f03bb21)
 
 *from malama Mauna Lua's site*
 
