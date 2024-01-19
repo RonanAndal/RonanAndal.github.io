@@ -9,8 +9,6 @@ labels:
   - Engineering
 ---
 
-<img width="168px" class="rounded float-start pe-4" src="../img/difficulty/javascript.jpg">
-
 ![javascript](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/423cfc72-cfe5-4e5c-8194-cba50a06a2b6)
 
 
