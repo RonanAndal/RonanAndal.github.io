@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![Group photo 2](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/8d33e347-4ec7-49fb-b923-8e8d9de0416b)
+image: img/cotton/Group photo 2.png
 
 title: "Malama Maunalua"
 date: 2021
