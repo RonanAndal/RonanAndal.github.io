@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/yeng thumbnail.png
+image: 
 
 
 title: "Malama Maunalua"
