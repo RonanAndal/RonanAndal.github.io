@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="387" alt="yeng thumbnail" src="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/8d512dec-ebee-4738-a65c-5667ceee1dfb">
+image: img/cotton/yeng thumbnail.png
 
 
 title: "Malama Maunalua"
@@ -12,7 +12,8 @@ labels:
 summary: "Got to work with an organization called Malama Maunalua, & helped them clean up MaunaLua Bay Park as well as study the invasive algae along the way"
 ---
 
-![Group photo 1](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/ab9f6ea5-00e0-4123-ac71-bfcdf44fc59c)
+![Group photo 1](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/f7d62f13-9922-4474-994d-52c144d893b5)
+
 
 ![Malama MaunaLua](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/a748a3db-8e32-4afd-abf5-327b9f03bb21)
 
