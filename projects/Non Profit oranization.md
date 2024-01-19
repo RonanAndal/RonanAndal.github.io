@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: img/cotton/Group photo 2.png
+image: <img width="387" alt="yeng thumbnail" src="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/8d512dec-ebee-4738-a65c-5667ceee1dfb">
+
 
 title: "Malama Maunalua"
 date: 2021
