@@ -6,7 +6,7 @@ title: "Island Photography/Videography"
 date: 2023
 published: true
 labels:
-  - Photography
+  - Island Photography / videography
 summary: "pictures of recent projects."
 ---
 
@@ -24,5 +24,6 @@ https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/4b1f245e-b8b
 Aside from coding, another hobby of mine is taking pictures/videos of things I find aesthetically pleasing & sharing it to a handful amount of people of online
 
 *attachments explained
-1st is a video I made for my senior class in High School
-2nd is a photoshoot for a friend of mine who graduated college
+
+1st is a photoshoot for a friend of mine who graduated college,
+2nd is a video I made for my senior class in High School
