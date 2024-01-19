@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/cotton/yeng thumbnail.png
 title: "Island Photography/Videography"
 date: 2023
 published: true
