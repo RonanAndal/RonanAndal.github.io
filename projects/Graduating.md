@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![IMG_7824 2](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/367f4f26-00ce-420b-a83a-8da16f311f65)
+image: img/cotton/grad thumbnail.jpeg
 
 
 title: "Graduating High School"
