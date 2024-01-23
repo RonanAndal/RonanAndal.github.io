@@ -11,8 +11,8 @@
     "profiles": [
       { "network": "github", "username": "RonanAndal", "url": "http://github.com/RonanAndal" },
       { "network": "linkedin", "username": "Ronan Russel Andal", "url": "https://www.linkedin.com/in/ronan-russel-andal-783a9a260" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
