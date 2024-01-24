@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: img/cotton/yeng thumbnail.png
-title: "Island Photography/Videography"
+title: "Island photography/videography"
 date: 2023
 published: true
 labels:
   - Island Photography / videography
-summary: "pictures of recent projects."
+summary: "videos of recent projects."
 ---
 
 <img width="446" alt="Screen Shot 2024-01-18 at 9 15 32 PM" src="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/64034e93-6bfb-4486-b4d8-d11f6f195417">
