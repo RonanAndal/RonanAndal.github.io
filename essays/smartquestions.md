@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Menacing but Rewarding"
+title: "ICS interrogation"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-17
+date: 2024-01-23
 published: true
 labels:
   - Software Engineering
