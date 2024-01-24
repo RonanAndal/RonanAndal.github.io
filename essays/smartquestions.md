@@ -9,6 +9,8 @@ labels:
   - Software Engineering
   - Learning
 ---
+![image](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/58e2e53b-2ff0-4d29-9db0-7855dfff0b97)
+
 
 “The important thing is not to stop questioning.” as Albert Einstein said. Simple questions have simple answers while smart questions have answers that could contain the turning point in your career, the start of a new journey, or the end of a recurring one. But before you get these answers you must first ask the question, & to ask the question you must know which question to ask, not just any question though, but a smart question. 
 While refreshing the questions page on Stack Overflow, I came across a post that briefly asked, "I'm new to coding, where can I get info about JavaScript?" This query, though genuine in its curiosity, might benefit from refinement. A more informed approach could involve specifying the aspects of JavaScript the individual is interested in or seeking guidance on, such as specific features, frameworks, or resources for beginners. This way, the response can be tailored to address the user's unique needs and provide a more comprehensive and helpful answer.
