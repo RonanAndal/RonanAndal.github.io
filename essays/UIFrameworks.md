@@ -29,6 +29,8 @@ labels:
 
 <p>In conclusion, while UI frameworks like Bootstrap 5 may initially appear daunting, the benefits they offer far outweigh the challenges of mastering them. From enhanced efficiency and productivity to improved consistency and maintainability, Bootstrap 5 empowers developers to create sophisticated and responsive web interfaces with relative ease. By embracing Bootstrap, developers can navigate the complexities of modern web development while delivering compelling user experiences across diverse platforms and devices. Thus, the investment of time and effort in learning Bootstrap 5 proves to be a prudent decision for software engineers seeking to excel in the ever-evolving landscape of UI design and development.</p>
 
+<p>*sidenote I used chatgpt to help with grammar and such</p>
+
 
 
 
