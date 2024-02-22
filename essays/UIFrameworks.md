@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI Frameworks"
+title: "Can't spell UI Frameworks without U & I"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-20
 published: true
