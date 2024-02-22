@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Can't spell UI Frameworks without U & I"
+title: "Bootstrap isn't a trap"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-20
 published: true
