@@ -14,9 +14,9 @@
     ]
   },
   "interests": [
+    { "name": "Web Design" },
     { "name": "Interactive media" },
     { "name": "Video editting" },
-    { "name": "Quantum Computing" },
     { "name": "Graphic design" }
   ],
   "skills": [
@@ -32,9 +32,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-08-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,14 +42,14 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa OFDAS",
+      "position": "Student Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-01-02",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
+        "Ensured the ongoing maintenance, updating, and organization of technology within event spaces, both for upcoming and past events",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
