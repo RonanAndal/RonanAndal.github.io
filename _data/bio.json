@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": ["Java", "Javascript", "HTML"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -72,7 +72,7 @@
     {
       "company": "Target Starbucks",
       "position": "Barista",
-      "website": "https://www.lilihabakery.com/",
+      "website": "https://www.target.com/sl/oahu-honolulu-salt-lake/2410",
       "startDate": "2020-08-18",
       "endDate": "2023-10-28",
       "summary": "",
