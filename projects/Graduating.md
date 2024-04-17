@@ -1,18 +1,21 @@
 ---
 layout: project
 type: project
-image: img/cotton/grad thumbnail.jpeg
+image: img/cotton/gym_app.png
 
 
-title: "Graduating High School"
-date: 2020
+title: "Rec Center Warriors App"
+date: 2024
 published: true
 labels:
   - School
-summary: "While graduating from McKinley High School with the Class of 2020 and achieving a GPA of 3.6 may appear as a minor feat to some, it stands as a significant milestone for me. This accomplishment not only represents the successful completion of my high school education but also reflects my commitment to academic excellence and personal growth during this pivotal phase of my journey."
+summary: "Developed a website tailored to both gym enthusiasts and non-gym goers at UH Manoa."
 ---
 
-![IMG_7824](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/d2caef93-4acc-4a4d-992a-5cc67a4d7ef5)
+![rcwarriors-landingpage.png](..%2Fimg%2Frcwarriors-landingpage.png)
 
+Website: [RC warriors]{rcwarriors.fit}
 
-While graduating from McKinley High School with the Class of 2020 and achieving a GPA of 3.6 may appear as a minor feat to some, it stands as a significant milestone for me. This accomplishment not only represents the successful completion of my high school education but also reflects my commitment to academic excellence and personal growth during this pivotal phase of my journey.
+With the assistance of my colleagues, we conceptualized and initiated the development of an application akin to Facebook, specifically tailored for the gym community. However, the project is currently underway and remains a work in progress.
+
+*more screenshots of pages*
