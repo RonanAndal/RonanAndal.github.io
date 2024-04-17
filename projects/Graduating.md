@@ -15,7 +15,7 @@ summary: "Developed a website tailored to both gym enthusiasts and non-gym goers
 
 <img src="../img/rcwarriors-landingpage.png" alt="RC Warriors Landing Page" width="599">
 
-Website: [RC warriors]{rcwarriors.fit}
+Website: <a href="rcwarriors.fit">RC WARRIORS</a>
 
 With the assistance of my colleagues, we conceptualized and initiated the development of an application akin to Facebook, specifically tailored for the gym community. However, the project is currently underway and remains a work in progress.
 
