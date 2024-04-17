@@ -12,7 +12,7 @@ labels:
 summary: "Developed a website tailored to both gym enthusiasts and non-gym goers at UH Manoa."
 ---
 
-<img src="../img/rcwarriors-landingpage.png" alt="RC Warriors Landing Page" width="400">
+<img src="../img/rcwarriors-landingpage.png" alt="RC Warriors Landing Page" width="700">
 
 Website: [RC warriors]{rcwarriors.fit}
 
