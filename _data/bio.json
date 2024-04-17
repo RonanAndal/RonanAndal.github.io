@@ -16,7 +16,7 @@
   "interests": [
     { "name": "Web Design" },
     { "name": "Interactive media" },
-    { "name": "Video editting" },
+    { "name": "Video editing" },
     { "name": "Graphic design" }
   ],
   "skills": [
@@ -44,25 +44,42 @@
     {
       "company": "UH Manoa OFDAS",
       "position": "Student Assistant",
-      "website": "",
-      "startDate": "2024-01-02",
+      "website": "https://www.ofdas.hawaii.edu/",
+      "startDate": "2023-12-28",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Tech-savvy Student Assistant providing support, customer service, and multitasking",
       "highlights": [
-        "Ensured the ongoing maintenance, updating, and organization of technology within event spaces, both for upcoming and past events",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Provided technical support to colleagues and assisted in troubleshootine common issues setup countless computers & projectors for meetings / events to be ready",
+        "Offered excellent customer service by greeting visitors, answering inquiries, and directing them to the appropriate resources",
+        "Demonstrated proficiency in using office software and technology tools, such as Microsoft Office Suite and project management software",
+        "Effectively managed multiple tasks and priorities in a fast-paced environemtn, meeting deadlines and ensuring high-quality work"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Liliha Bakery",
+      "position": "Dining Room Assistant",
+      "website": "https://www.lilihabakery.com/",
+      "startDate": "2023-05-18",
+      "endDate": "2024-01-09",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Enhanced customer satisfaction by providing attentive service and promptly addressing dinner needs",
+        "Maintained a clean and organized dining area, contributing to a pleasant environment for guests",
+        "Assisted in the setup and breakdown of events, ensuring  timely completion and smooth operations"
+      ]
+    }
+  ,
+    {
+      "company": "Target Starbucks",
+      "position": "Barista",
+      "website": "https://www.lilihabakery.com/",
+      "startDate": "2020-08-18",
+      "endDate": "2023-10-28",
+      "summary": "",
+      "highlights": [
+        "Served hundreds of customers a day and gave each one my full attention, also memorized a handful of regulars' usual orders",
+        "Occasionally called upon to assist the tech department during busy periods.",
+        "Taught to order our stock for the week and did it for my team at times when she was too busy"
       ]
     }
   ],
