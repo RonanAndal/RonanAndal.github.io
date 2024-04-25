@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Thinking made visual"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-17
+date: 2024-04-21
 published: true
 labels:
   - Software Engineering
