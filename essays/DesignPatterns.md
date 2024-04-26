@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Thinking made visual"
+title: "Stoplights to Syntax"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-21
 published: true
@@ -17,6 +17,7 @@ labels:
 
 <p>
 In my coding projects, I've embraced design patterns as guiding stars, illuminating the path to a good grade and a better understanding. Among these, the Template Method Pattern stands out as a beacon of efficiency and innovation. Much like a master architect drawing upon blueprints of past structures, I've leveraged this pattern to streamline development and promote code reusability. For instance, in my ICS 314 final project, I crafted a generic framework for data processing pipelines, allowing for seamless adaptation to diverse applications.</p>
+<img src = "../img/cotton/methods-table.png" width = 300px/>
 
 <p>Additionally, I've employed the Prototype pattern to expedite development while ensuring consistency and reliability across applications. By cloning existing structures and customizing them as needed, I've harnessed the power of this pattern to address novel challenges and achieve higher levels of efficiency in my codebase.</p>
 
