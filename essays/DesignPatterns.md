@@ -30,3 +30,5 @@ Furthermore, in managing our profile collections within the API folder, my team 
 <img src="../img/cotton/saul-bass.jpeg" width="300px">
 
 
+<p>essay was made with the help of chat gpt</p>
+
