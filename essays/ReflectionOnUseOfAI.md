@@ -37,7 +37,7 @@ I was in rush for somethings due to some personal issues and needed to use chatG
 Even though GPT isn't the only thing I turn to when learning a concept or tutorial it is for sure a factor that comes into play besides looking in textbooks and youtube videos and etc. I would ask GPT "GPT what do you know about ____" and then begin to do research out of GPT whether it be google, textbooks, youtube and etc.
 
 7. Answering a question in class or in Discord\
-I didn't really asked much questions in discord, because I usually just asked my group if I needed assistance. However with in class questions I just asked whatever come to my mind, don't need AI to help filter that.
+   I didn't ask many questions on Discord since I typically sought assistance from my group when needed. However, during in-class discussions, I freely raised any queries that came to mind, relying on my own judgment without the need for AI assistance to filter them.
 
 8. Asking or answering a smart-question\
 Again didn't really ask much questions in the discord as well as answered any questions
@@ -51,17 +51,17 @@ Once I write something down in syntax without anything but my brain I have a pre
 11. Writing code\
 For mostly all the assignments in this class it is usually a variation of a past homework or classwork we have done so the answers to it is all in our past homework, so when I'm not in a rush I like to check back in past assessments to figure out what to do but when time is an issue I like to result in GPT also In writing code I usually mess up on syntax and use chatGPT to help me with the little thing.
 
-12. Documenting code
+12. Documenting code\
 
 
 
-13. Quality assurance
+13. Quality assurance\
 
-Yes I tend to be a little sloppy when it comes to some projects so sometimes I like to paste the grading criteria if there is one to GPT and ask GPT "How does my project align with the criteria?" as I paste my project and my grading criteria for the project as well
+In instances where I find myself prone to overlooking details in my projects, I've developed a habit of leveraging GPT's assistance. If a grading rubric or criteria is provided, I often copy and paste it alongside my project, prompting GPT with a specific question: 'How does my project align with the criteria?' This approach allows me to gain valuable insights and ensure that my work meets the expected standards.
 
 14. Other uses in ICS 314 not listed above
 
-n/a I explained almo
+n/a
 
 
 ### III. Impact on Learning and Understanding:
@@ -72,7 +72,7 @@ Some practical applications I use ChatGPT in is in emailing my professors about 
 
 
 ### V. Challenges and Opportunities:
-Some challenges I find with GPT is with my classmate's work I find it difficult to see if their work is actually their work or if they are letting AI do all the talking as they play a front on their screen. Opportunities however is all the time I saved whenever dealing with things 
+Some challenges I find with GPT is with my classmate's work I find it difficult to see if their work is actually their work or if they are letting AI do all the talking as they play a front on their screen. Also another challenge that I feel doesn't feel healthy at times is feeling almost lacking if I don't go to GPT for an assessment almost as if I have no confidence in just my thoughts alone. Opportunities however is all the time I saved whenever dealing with things, I can use it to other things that will benefit me.
 
 
 ### VI. Comparative Analysis:
