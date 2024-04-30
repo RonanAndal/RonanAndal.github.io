@@ -79,8 +79,9 @@ I encounter a few challenges with GPT, particularly when assessing my classmates
 
 
 ### VII. Future Considerations:
+A professor once told me "You can learn almost anything on the internet if you're willing to put in the time and effort" With the assistance of AI, this rings truer than ever, as it significantly reduces the investment of both time and effort required for learning. As AI technology continues to evolve and improve, the path to acquiring knowledge will only become shorter and more accessible. This has also been one of the first classes where they have allowed and sometimes encouraged us to use chatGPT instead of completely banning it. Most classes I would take forbid it and use AI checkers to address the situation but I don't think these AI checkers are that much accurate knowing some people still get away with pulling this off. My future considerations would either be making stricter AI checkers or, completely banning chat GPT to some of the public or increasing the amount of work in school to make it somewhat challenging for students.
 
 
 
 ### VIII. Conclusion:
-Ultimately having the world at your fingertips 
+Ultimately having AI at your fingertips is either a blessing or a burden, it all depends on the person that's using it. One of my professors once told me you can learn almost anything on the internet if you put in the time and effort, and I think AI helps speed up that process ten fold. I feel like AI is only going to get better from here so you might as well use what you've been given. AI can continue to evolve all it wants but human nature will still stay the same
