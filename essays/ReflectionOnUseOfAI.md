@@ -22,9 +22,9 @@ Some experience WODs were pretty straightforward and had instructions to get the
 
 
 2. In-class Practice WODs
-<ul>
+
 I didn't want to use chatGPT for these WODS because the this was for the mere purpose of preparing you for the actual WOD which was actually graded unlike these in class ones where they weren't graded. I usually just discussed with my partner about how to approach this problem
-</ul>
+
 
 3. In-class WODs
 <p>I wrestled with a sense of guilt when turning to ChatGPT for assistance with my WODs. However, I found myself at a crossroads: either risk failing the WODs and then studying the answers afterward, or utilize AI to pass the WODs while still ensuring I understood the answers and their rationale. Either way I still was going to understand the answer so I chose the option that was gonna benefit me more in the future. As time went by however the guilt that built inside of me for using chatGPT for the previous WODS turned into countless hours studying the previous Experience WODs for the future WODs and by the end of the semester I really challenged myself not to use AI at all </p>
