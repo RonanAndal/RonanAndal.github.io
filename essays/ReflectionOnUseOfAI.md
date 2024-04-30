@@ -11,7 +11,7 @@ labels:
 ---
 
 ### I. Introduction
-
+AI in education to me is like that overfriendly TA in class who answers all your questions with no hesitation. The beauty of AI lies in its accessibility; it's like having that TA available whenever and wherever you have an internet connection. In software engineering, the role of AI can be perceived as both a blessing and a curse. It all depends on how you approach it. Some people will hit cmd+c and cmd+v a few times and call it a day, and some people will put the time and effort to understand.  Like the quote goes, 'Give a guy a fish and he eats for a day; teach a guy to fish and he eats for a lifetime.' In the realm of software engineering, those who invest in understanding the underlying principles not only solve the immediate problem but also equip themselves with valuable skills for the future. Personally, I've primarily utilized ChatGPT among various AI options, leveraging its capabilities to enhance my understanding and problem-solving in both general AI usage and specifically in ICS 314.
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
