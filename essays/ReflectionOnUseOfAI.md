@@ -17,9 +17,9 @@ AI in education to me is like that overfriendly TA in class who answers all your
 I have used AI in class this semester in the following areas:
 
 1. Experience WODs e.g. E18
-<ul>
+
 Some experience WODs were pretty straightforward and had instructions to get the job done, but when instructions were lacking like when there was no instructional video google and ChatGPT was my saving grace
-</ul>
+
 
 2. In-class Practice WODs
 <ul>
