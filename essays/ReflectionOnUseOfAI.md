@@ -52,7 +52,7 @@ Once I write something down in syntax without anything but my brain I have a pre
 For mostly all the assignments in this class it is usually a variation of a past homework or classwork we have done so the answers to it is all in our past homework, so when I'm not in a rush I like to check back in past assessments to figure out what to do but when time is an issue I like to result in GPT also In writing code I usually mess up on syntax and use chatGPT to help me with the little thing.
 
 12. Documenting code\
-
+    Ensuring clear and concise documentation has rarely posed a challenge for me, particularly when I grasp the intricacies of what I'm coding. However, I occasionally seek GPT's aid to refine the grammar in my documentation. Additionally, in my quality assurance process, I employ GPT to verify the correctness of my code. This includes evaluating the clarity and completeness of my documentation, addressing any shortcomings or excessive verbosity as necessary.
 
 
 13. Quality assurance\
