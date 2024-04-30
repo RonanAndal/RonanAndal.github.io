@@ -31,7 +31,7 @@ I wrestled with a sense of guilt when turning to ChatGPT for assistance with my 
 I've always struggled with making my thoughts sound more professional in a sense. I can go on for hours on end about the topics that professor has given us within the essays this semester just the execution which was lacking and chatGPT helped me out with it. I usually just typed my thoughts down on a google doc and even though it didn't sound horrible I thought it could sound and flow better so I would copy paste my initial thoughts into chatGPT and ask AI to make it sound a bit more professional. I wouldn't just go on chatGPT and copy paste the question given to us by the professor and ask it to make me an essay. 
 
 5. Final project\
-I was in rush for somethings due to some personal issues and needed to use chatGPT to finish it and not let my teammates down
+I was in rush for somethings due to some personal issues and needed to use chatGPT to finish it and not let my teammates down. Otherwise I treated the final project like it was an actual site I needed to make for an actual software engineering job
 
 6. Learning a concept / tutorial\
 Even though GPT isn't the only thing I turn to when learning a concept or tutorial it is for sure a factor that comes into play besides looking in textbooks and youtube videos and etc.
@@ -46,10 +46,10 @@ Again didn't really ask much questions in the discord as well as answered any qu
 I've never used chatGPT for that I probably used the site that professor gave us with all the options for Underscore
 
 10. Explaining code\
-Sometimes I forget how I got some code after some time so GPT is real handy when remembering my thoughts were from the past
+Once I write something down in syntax without anything but my brain I have a pretty good understanding of it and would not need GPT to help me explain it, but maybe make it sound more professional or easier to understand to other people
 
 11. Writing code\
-In writing code I usually mess up on syntax and use chatGPT to help me with the little things
+For mostly all the assignments in this class it is usually a variation of a past homework or classwork we have done so the asnwers to it is all in our past homework, so when I'm not in a rush I like to check back in past assessments to figure out what to do but when time is an issue I like to result in GPT also In writing code I usually mess up on syntax and use chatGPT to help me with the little thing.
 
 12. Documenting code
 
@@ -66,10 +66,11 @@ Yes
 The impact of AI on my learning journey has been profound. In the realm of ICS, where self-directed learning is the norm, AI has emerged as a valuable ally, significantly optimizing my study sessions and homework assignments. Its influence is unmistakable—it either streamlines tasks to simplicity or presents challenges of a higher order, leaving little room for middle ground. Nonetheless, its ability to accelerate learning and provide invaluable insights remains undeniable.
 
 ### IV. Practical Applications:
-
+Some practical applications I use ChatGPT in is in emailing my professors about things and maybe making it sound more professional so I don't give them a hard time understanding my thoughts
 
 
 ### V. Challenges and Opportunities:
+Some challenges I find with GPT is with my classmate's work I find it difficult to see if their work is actually their work or if they are letting AI do all the talking as they play a front on their screen. Opportunities however is all the time I saved whenever dealing with things 
 
 
 ### VI. Comparative Analysis:
