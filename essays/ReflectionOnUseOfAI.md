@@ -17,7 +17,7 @@ AI in education to me is like that overfriendly TA in class who answers all your
 I have used AI in class this semester in the following areas:
 
 1. Experience WODs e.g. E18\
-Some experience WODs were pretty straightforward and had instructions to get the job done, but when instructions were lacking like when there was no instructional video google and ChatGPT was my saving grace
+Some experience WODs were pretty straightforward and had instructions to get the job done, but when instructions were lacking like when there was no instructional video google and ChatGPT was my saving grace, but these just like the practice WODs were used to help us prepare for the actual in-class WODs so which is why GPT or not I still analyzed how I got the answer afterwards and did it over and over again just like how professor wanted
 
 
 2. In-class Practice WODs\
@@ -28,28 +28,28 @@ I didn't want to use chatGPT for these WODS because the this was for the mere pu
 I wrestled with a sense of guilt when turning to ChatGPT for assistance with my WODs. However, I found myself at a crossroads: either risk failing the WODs and then studying the answers afterward, or utilize AI to pass the WODs while still ensuring I understood the answers and their rationale. Either way I still was going to understand the answer so I chose the option that was gonna benefit me more in the future. As time went by however the guilt that built inside of me for using chatGPT for the previous WODS turned into countless hours studying the previous Experience WODs for the future WODs and by the end of the semester I really challenged myself not to use AI at all
 
 4. Essays\
-I've always struggled with making my thoughts sound more professional in a sense. I can go on for hours on end about the topics that professor has given us within the essays this semester just the execution which was lacking and chatGPT helped me out with it. I usually just typed my thoughts down on a google doc and even though it didn't sound horrible I thought it could sound and flow better so I would copy paste my initial thoughts into chatGPT and ask AI to make it sound a bit more professional. I wouldn't just go on chatGPT and copy paste the question given to us by the professor and ask it to make me an essay. 
+I've always struggled with making my thoughts sound more professional in a sense. I can go on for hours on end about the topics that professor has given us within the essays this semester just the execution which was lacking and chatGPT helped me out with it. I usually just typed my thoughts down on a google doc and even though it didn't sound horrible I thought it could sound and flow better so I would copy paste my initial thoughts into chatGPT and ask AI "Could you make this flow more better or sound more prfoessional". I wouldn't just go on chatGPT and copy paste the question given to us by the professor and ask it to make me an essay. 
 
 5. Final project\
-I was in rush for somethings due to some personal issues and needed to use chatGPT to finish it and not let my teammates down. Otherwise I treated the final project like it was an actual site I needed to make for an actual software engineering job
+I was in rush for somethings due to some personal issues and needed to use chatGPT to finish it and not let my teammates down, just like when I had to make an exercise class for my project I asked GPT "Would I just take one of the existing collections and copy paste them and change up the variables and such?". Otherwise I treated the final project like it was an actual site I needed to make for an actual software engineering job
 
 6. Learning a concept / tutorial\
-Even though GPT isn't the only thing I turn to when learning a concept or tutorial it is for sure a factor that comes into play besides looking in textbooks and youtube videos and etc.
+Even though GPT isn't the only thing I turn to when learning a concept or tutorial it is for sure a factor that comes into play besides looking in textbooks and youtube videos and etc. I would ask GPT "GPT what do you know about ____" and then begin to do research out of GPT whether it be google, textbooks, youtube and etc.
 
 7. Answering a question in class or in Discord\
-I didn't really asked much questions in discord, because I usually just asked my group if I needed assistance. However with in class questions I just asked whatever come to my mind, don't need AI to help filter that
+I didn't really asked much questions in discord, because I usually just asked my group if I needed assistance. However with in class questions I just asked whatever come to my mind, don't need AI to help filter that.
 
 8. Asking or answering a smart-question\
 Again didn't really ask much questions in the discord as well as answered any questions
 
 9. Coding example e.g. “give an example of using Underscore .pluck”\
-I've never used chatGPT for that I probably used the site that professor gave us with all the options for Underscore
+I've never used chatGPT for that I probably used the site that professor gave us with all the options for Underscore even though it would be beneficial to just ask GPT "could you give me an example of using Underscore .pluck"
 
 10. Explaining code\
-Once I write something down in syntax without anything but my brain I have a pretty good understanding of it and would not need GPT to help me explain it, but maybe make it sound more professional or easier to understand to other people
+Once I write something down in syntax without anything but my brain I have a pretty good understanding of it and would not need GPT to help me explain it, but maybe make it sound more professional or easier to understand to other people I would probably ask GPT "Could you make this sound simpler" to make it sound better.
 
 11. Writing code\
-For mostly all the assignments in this class it is usually a variation of a past homework or classwork we have done so the asnwers to it is all in our past homework, so when I'm not in a rush I like to check back in past assessments to figure out what to do but when time is an issue I like to result in GPT also In writing code I usually mess up on syntax and use chatGPT to help me with the little thing.
+For mostly all the assignments in this class it is usually a variation of a past homework or classwork we have done so the answers to it is all in our past homework, so when I'm not in a rush I like to check back in past assessments to figure out what to do but when time is an issue I like to result in GPT also In writing code I usually mess up on syntax and use chatGPT to help me with the little thing.
 
 12. Documenting code
 
@@ -57,9 +57,11 @@ For mostly all the assignments in this class it is usually a variation of a past
 
 13. Quality assurance
 
-Yes 
+Yes I tend to be a little sloppy when it comes to some projects so sometimes I like to paste the grading criteria if there is one to GPT and ask GPT "How does my project align with the criteria?" as I paste my project and my grading criteria for the project as well
 
 14. Other uses in ICS 314 not listed above
+
+n/a I explained almo
 
 
 ### III. Impact on Learning and Understanding:
