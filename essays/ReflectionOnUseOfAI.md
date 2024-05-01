@@ -64,6 +64,7 @@ In instances where I find myself prone to overlooking details in my projects, I'
 n/a
 
 
+<p><img src = "../img/cotton/chatGPT.jpeg" width = 250px/></p>
 ### III. Impact on Learning and Understanding:
 The impact of AI on my learning journey has been profound. In the realm of ICS, where self-directed learning is the norm, AI has emerged as a valuable ally, significantly optimizing my study sessions and homework assignments. Its influence is unmistakable—it either streamlines tasks to simplicity or presents challenges of a higher order, leaving little room for middle ground. Nonetheless, its ability to accelerate learning and provide invaluable insights remains undeniable.
 
