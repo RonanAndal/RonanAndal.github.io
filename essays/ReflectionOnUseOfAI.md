@@ -13,22 +13,24 @@ labels:
 ### I. Introduction
 AI in education to me is like that overfriendly TA in class who answers all your questions with no hesitation. The beauty of AI lies in its accessibility; it's like having that TA available whenever and wherever you have an internet connection. In software engineering, the role of AI can be perceived as both a blessing and a curse. It all depends on how you approach it. Some people will hit cmd+c and cmd+v a few times and call it a day, and some people will put the time and effort to understand.  Like the quote goes, 'Give a guy a fish and he eats for a day; teach a guy to fish and he eats for a lifetime.' In the realm of software engineering, those who invest in understanding the underlying principles not only solve the immediate problem but also equip themselves with valuable skills for the future. Personally, I've primarily utilized ChatGPT among various AI options, leveraging its capabilities to enhance my understanding and problem-solving in both general AI usage and specifically in ICS 314.
 
+<p><img src ="../img/cotton/copypaste.jpeg"></p>
+
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
 1. Experience WODs e.g. E18\
-Some experience WODs were pretty straightforward and had instructions to get the job done, but when instructions were lacking like when there was no instructional video google and ChatGPT was my saving grace, but these just like the practice WODs were used to help us prepare for the actual in-class WODs so which is why GPT or not I still analyzed how I got the answer afterwards and did it over and over again just like how professor wanted
+Some experience WODs were pretty straightforward and had instructions to get the job done, but when instructions were lacking like when there was no instructional video google and ChatGPT was my saving grace, but these just like the practice WODs were used to help us prepare for the actual in-class WODs so which is why GPT or not I still analyzed how I got the answer afterwards and did it over and over again just like how professor encouraged to do so
 
 
 2. In-class Practice WODs\
-I didn't want to use chatGPT for these WODS because the this was for the mere purpose of preparing you for the actual WOD which was actually graded unlike these in class ones where they weren't graded. I usually just discussed with my partner about how to approach this problem. Afterwards also Professor usually gave the answer as well.
+I didn't want to use chatGPT for these WODS because this was for the mere purpose of preparing you for the actual WOD which was actually graded unlike these in class ones where they weren't graded. I usually just discussed with my partner about how to approach this problem. Afterwards also Professor usually gave the answer as well.
 
 
 3. In-class WODs \
 I wrestled with a sense of guilt when turning to ChatGPT for assistance with my WODs. However, I found myself at a crossroads: either risk failing the WODs and then studying the answers afterward, or utilize AI to pass the WODs while still ensuring I understood the answers and their rationale. Either way I still was going to understand the answer so I chose the option that was gonna benefit me more in the future. As time went by however the guilt that built inside of me for using chatGPT for the previous WODS turned into countless hours studying the previous Experience WODs for the future WODs and by the end of the semester I really challenged myself not to use AI at all
 
 4. Essays\
-I've always struggled with making my thoughts sound more professional in a sense. I can go on for hours on end about the topics that professor has given us within the essays this semester just the execution which was lacking and chatGPT helped me out with it. I usually just typed my thoughts down on a google doc and even though it didn't sound horrible I thought it could sound and flow better so I would copy paste my initial thoughts into chatGPT and ask AI "Could you make this flow more better or sound more prfoessional". I wouldn't just go on chatGPT and copy paste the question given to us by the professor and ask it to make me an essay. 
+I've always struggled with making my thoughts sound more professional in a sense. I can go on for hours on end about the topics that professor has given us within the essays this semester just the execution which was lacking and chatGPT helped me out with it. I usually just typed my thoughts down on a google doc and even though it didn't sound horrible I thought it could sound and flow better so I would copy paste my initial thoughts into chatGPT and ask AI "Could you make this flow more better or sound more professional". I wouldn't just go on chatGPT and copy paste the question given to us by the professor and ask it to make me an essay. 
 
 5. Final project\
 I was in rush for somethings due to some personal issues and needed to use chatGPT to finish it and not let my teammates down, just like when I had to make an exercise class for my project I asked GPT "Would I just take one of the existing collections and copy paste them and change up the variables and such?". Otherwise I treated the final project like it was an actual site I needed to make for an actual software engineering job
