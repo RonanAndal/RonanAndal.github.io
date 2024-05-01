@@ -21,7 +21,7 @@ Some experience WODs were pretty straightforward and had instructions to get the
 
 
 2. In-class Practice WODs\
-I didn't want to use chatGPT for these WODS because the this was for the mere purpose of preparing you for the actual WOD which was actually graded unlike these in class ones where they weren't graded. I usually just discussed with my partner about how to approach this problem
+I didn't want to use chatGPT for these WODS because the this was for the mere purpose of preparing you for the actual WOD which was actually graded unlike these in class ones where they weren't graded. I usually just discussed with my partner about how to approach this problem. Afterwards also Professor usually gave the answer as well.
 
 
 3. In-class WODs \
@@ -56,7 +56,6 @@ For mostly all the assignments in this class it is usually a variation of a past
 
 
 13. Quality assurance\
-
 In instances where I find myself prone to overlooking details in my projects, I've developed a habit of leveraging GPT's assistance. If a grading rubric or criteria is provided, I often copy and paste it alongside my project, prompting GPT with a specific question: 'How does my project align with the criteria?' This approach allows me to gain valuable insights and ensure that my work meets the expected standards.
 
 14. Other uses in ICS 314 not listed above
