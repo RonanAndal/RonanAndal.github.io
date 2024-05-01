@@ -76,6 +76,7 @@ I encounter a few challenges with GPT, particularly when assessing my classmates
 
 
 ### VI. Comparative Analysis:
+Let's consider two scenarios: one in which AI exists and one in which it doesn't. In scenario one, Student A, with access to AI, faces a WOD in Professor Moore's class. Without preparation, they resort to using chatGPT, ultimately receiving a perfect score. However, their reaction could vary depending on their ethics. They might view this success as a license to continue relying solely on AI, or they may feel unsatisfied with the artificial assistance and opt to dedicate themselves to studying for future assignments. In scenario two, Student B faces the same WOD without AI assistance and fails. Similarly, their response can diverge. They might resign themselves to failure, or they might recognize the need for greater effort and commit to studying diligently for subsequent tasks. These scenarios underscore the ethical and motivational implications of AI integration in education.
 
 
 ### VII. Future Considerations:
