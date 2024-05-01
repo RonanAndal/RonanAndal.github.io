@@ -14,8 +14,10 @@
     ]
   },
   "interests": [
+    { "name": "Programming" },
     { "name": "Web Design" },
     { "name": "Interactive media" },
+    { "name": "Network Management" },
     { "name": "Video editing" },
     { "name": "Graphic design" }
   ],
