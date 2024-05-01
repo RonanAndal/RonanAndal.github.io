@@ -58,8 +58,7 @@ For mostly all the assignments in this class it is usually a variation of a past
 13. Quality assurance\
 In instances where I find myself prone to overlooking details in my projects, I've developed a habit of leveraging GPT's assistance. If a grading rubric or criteria is provided, I often copy and paste it alongside my project, prompting GPT with a specific question: 'How does my project align with the criteria?' This approach allows me to gain valuable insights and ensure that my work meets the expected standards.
 
-14. Other uses in ICS 314 not listed above
-
+14. Other uses in ICS 314 not listed above\
 n/a
 
 
