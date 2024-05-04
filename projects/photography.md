@@ -23,24 +23,6 @@ summary: "Videos from recent projects."
     </Col>
 </Row>
 
-<Row className="align-items-center mt-4">
-            <Col xs={7}>
-              <img src="/img/cotton/traffic-light.jpeg" alt="Exercises" className="img-fluid" />
-            </Col>
-            <Col xs={5}>
-              <div>
-                <h2>Recreation Center</h2>
-                <div><p>Whether you&apos;re looking to build muscle, improve endurance, or simply maintain your fitness routine, our Exercises page has something for everyone.</p></div>
-              </div>
-              <div className="landing-buttons mt-4">
-                <a href="/exercises">
-                  {/* eslint-disable-next-line react/button-has-type */}
-                  <button>Exercises</button>
-                </a>
-              </div>
-            </Col>
-          </Row>
-
 <p>Beyond coding, I have a passion for capturing the beauty I encounter through photography and videography, sharing these visual treasures with a select audience online.</p>
 
 <p><strong>Attachments Explained:</strong></p>
