@@ -11,9 +11,17 @@ labels:
 summary: "Videos from recent projects."
 ---
 
-<img width="446" alt="Screen Shot 2024-01-18 at 9 15 32 PM" src="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/64034e93-6bfb-4486-b4d8-d11f6f195417">
-LINK TO VIDEO
-<a href = "https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/4b1f245e-b8b1-43d8-be26-9c197208094d">Link To Video </a>
+<Col>
+    <Row>
+        <Col xs="6">
+            <img width="150" alt="Screen Shot 2024-01-18 at 9 15 32 PM" src="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/64034e93-6bfb-4486-b4d8-d11f6f195417">
+        </Col>
+        <Col xs="6">
+            <row xs ="6"> <a href="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/4b1f245e-b8b1-43d8-be26-9c197208094d">Link To Video</a> </row>
+        </Col>
+    </Row>
+</Col>
+
 
 
 ![Untitled](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/37b28c17-8630-4921-84c8-9ddd2be17ae4)
