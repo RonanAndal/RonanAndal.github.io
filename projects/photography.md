@@ -18,7 +18,7 @@ summary: "Videos from recent projects."
         <a href="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/4b1f245e-b8b1-43d8-be26-9c197208094d">Link To Video</a>
     </Col>
     <Col xs="6">
-        <img width="200" alt="Untitled" src="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/37b28c17-8630-4921-84c8-9ddd2be17ae4">
+        <img width="400" alt="Untitled" src="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/37b28c17-8630-4921-84c8-9ddd2be17ae4">
         <a href="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/e92f2711-6377-49b1-bebe-fde4d824c778">Link To Video</a>
     </Col>
 </Row>
