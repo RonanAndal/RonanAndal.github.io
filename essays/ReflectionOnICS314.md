@@ -16,6 +16,7 @@ labels:
 Among the countless nights spent tirelessly typing code for the looming weekly WOD or the lively group meetings with newfound friends gathered around our project table, there exists a profound lesson waiting to be unearthed. Beyond the surface of these moments lies a transformative journey, where the rhythm of keystrokes and the camaraderie of collaboration converge to reveal insights far beyond the realm of syntax and algorithms.
 </p>
 
+<img src="../img/cotton/software-engineering.jpeg" />
 <p>One thing I learned from all this coursework was Ethics in the industry, how it relates to my ethics for myself, and how navigating the ethical landscape of software engineering is as crucial as mastering its technical intricacies. Delving into discussions surrounding privacy, data security, and the responsible use of technology, I discovered that the decisions we make as software engineers extend far beyond the lines of code we write. They ripple through society, shaping perceptions, influencing behaviors, and sometimes even challenging our own moral compass. As I grappled with ethical dilemmas posed in case studies and real-world examples, I found myself confronting not only the ethical standards of the industry but also my own personal values and convictions. This introspective journey urged me to consider not just what I could create, but the impact of my creations on the world around me. It underscored the importance of integrity, empathy, and a steadfast commitment to ethical practice in every facet of my career as a software engineer./p>
 
 <p>
