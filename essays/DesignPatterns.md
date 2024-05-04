@@ -4,7 +4,7 @@ type: essay
 title: "Stoplights to Syntax"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-21
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
