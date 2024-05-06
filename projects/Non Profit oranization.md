@@ -9,7 +9,7 @@ date: 2021
 published: true
 labels:
   - Non-profit organization
-summary: "Got to work with an organization called Malama Maunalua, & helped them clean up MaunaLua Bay Park as well as study the invasive algae along the way"
+summary: "I got to work with an organization called Malama Maunalua and helped them clean up Maunalua Bay Park, as well as study the invasive algae along the way."
 ---
 
 ![Group photo 1](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/f7d62f13-9922-4474-994d-52c144d893b5)
@@ -17,6 +17,9 @@ summary: "Got to work with an organization called Malama Maunalua, & helped them
 
 
 ![Malama MaunaLua](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/a748a3db-8e32-4afd-abf5-327b9f03bb21)
+
+Participating in this opportunity provided me with a great experience to step out of the classroom and actively contribute to our local community. It was incredibly rewarding to work alongside the dedicated team at Malama Maunalua, cleaning up Maunalua Bay Park and conducting research on the invasive algae in the area. This hands-on experience not only deepened my understanding of environmental conservation but also fostered a sense of connection and stewardship for our natural resources.
+
 
 *from malama Mauna Lua's site*
 
