@@ -23,7 +23,7 @@ For many people, initiating a fitness journey can be daunting, especially when c
 
 ## Contributions
 
-I made this website with the help of my colleagues and a list of the things I helped out with in this project was the functionality of the navbar, the register page's design, finding the background image, I also started off the exercises collection which my friend took over and changed stuff up for it. I also designed the initial landing page after you login and found all those pictures as well as the buttons on the screen, and I was specifically in charge of updating our homepage with updated screenshots, making the Overview, Deployment, Community Feedback etc.
+I collaborated with my colleagues to develop this website, contributing to various aspects of the project. Among my contributions were enhancing the functionality of the navbar, making the register page, and sourcing the background image. Additionally, I initiated the exercises collection, which was later refined by a friend. I crafted the initial landing page post-login, curated relevant images, and designed on-screen buttons. Moreover, I took responsibility for updating the homepage making sure it met the requirements with M1, M2, and M3.
 
 
 *more screenshots of pages*
