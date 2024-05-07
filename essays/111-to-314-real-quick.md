@@ -10,8 +10,11 @@ labels:
   - Learning
 ---
 
-<img src="../img/cotton/software-engineering.jpeg" />
-<h2>Lessons I Learned</h2>
+<div style="text-align: center;">
+    <img src="../img/cotton/software-engineering.jpeg" />
+</div>
+
+<h2>Lessons I Learned</h2> 
 
 <p> As the days pass in my software engineering class, I've learned that this class offers far more than just mastering the language of computers or hastily crafting solutions for impending deadlines. It's an immersive journey where the nuances of software engineering extend beyond mere web application development. Through delving into fundamental concepts such as open-source software development, configuration management, and functional programming, I've unearthed a deeper understanding of the intricate tapestry that is software engineering. </p>
 
