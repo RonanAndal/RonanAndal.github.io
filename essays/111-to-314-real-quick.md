@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-    <img src="../img/cotton/111-to-314.jpg" />
+    <img src="../img/cotton/111-to-314.jpg" width="150px"/>
 </div>
 
 <h2>Lessons I Learned</h2> 
