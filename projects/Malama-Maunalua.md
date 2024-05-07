@@ -12,7 +12,9 @@ labels:
 summary: "I got to work with an organization called Malama Maunalua and helped them clean up Maunalua Bay Park, as well as study the invasive algae along the way."
 ---
 
-![Group photo 1](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/f7d62f13-9922-4474-994d-52c144d893b5)
+<div style="text-align: center;">
+    <img src="../img/cotton/Group%20photo%201.JPG" width="200px"/>
+</div>
 
 
 
