@@ -15,7 +15,7 @@ summary: "Developed a website tailored to both gym enthusiasts and non-gym goers
 
 ## Project Overview
 
-[Our Github organization](https://github.com/Syntax-Souljahs)
+Our Github Organization: [Syntax-Souljahs](https://github.com/Syntax-Souljahs)
 
 Website: <a href="https://rcwarriors.fit">RC WARRIORS</a>
 
