@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/cotton/yeng thumbnail.png
-title: "Island photography/videography"
+title: "Island Photography/Videography"
 date: 2023
 published: true
 labels:
