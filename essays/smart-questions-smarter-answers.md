@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "ICS interrogation"
+title: "Smart Questions, Smarter Answers"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-23
 published: true

@@ -8,6 +8,8 @@ published: true
 labels:
   - Software Engineering
   - Artificial inteligence
+  - HTML
+  - Javascript
 ---
 
 ### I. Introduction

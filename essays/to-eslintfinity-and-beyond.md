@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Autocorrect But for Coding"
+title: "To ESLintfinity and Beyond"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-03
 published: true
