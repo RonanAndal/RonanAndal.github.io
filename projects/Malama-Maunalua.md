@@ -13,12 +13,13 @@ summary: "I got to work with an organization called Malama Maunalua and helped t
 ---
 
 <div style="text-align: center;">
-    <img src="../img/cotton/Group%20photo%201.JPG" width="200px"/>
+    <img src="../img/cotton/Group%20photo%201.JPG" width="500px"/>
 </div>
 
 
-
-![Malama MaunaLua](https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/a748a3db-8e32-4afd-abf5-327b9f03bb21)
+<div style="text-align: center;">
+    <img src="../img/cotton/Malama-MaunaLua.jpeg" width="500px"/>
+</div>
 
 Participating in this opportunity provided me with a great experience to step out of the classroom and actively contribute to our local community. It was incredibly rewarding to work alongside the dedicated team at Malama Maunalua, cleaning up Maunalua Bay Park and conducting research on the invasive algae in the area. This hands-on experience not only deepened my understanding of environmental conservation but also fostered a sense of connection and stewardship for our natural resources.
 
