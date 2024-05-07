@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "In SpAIn but the S is silent"
+title: "In SpAIn But The S is Silent"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-27
 published: true

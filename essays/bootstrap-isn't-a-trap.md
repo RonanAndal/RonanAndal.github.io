@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Bootstrap isn't a trap"
+title: "Bootstrap Isn't a Trap"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-20
 published: true
