@@ -39,3 +39,8 @@ Throughout this project, I gained invaluable insights into effective teamwork an
 
 <img src="../img/rcwarriors-signin-page.png" alt="RC Warriors Landing Page" width="599">
 
+
+
+<p><img src="../img/cotton/exercises-page.png" alt = "RC Warriors Exercises Page" width="599"></p>
+
+<p><img src="../img/cotton/guide-page.png"></p>
