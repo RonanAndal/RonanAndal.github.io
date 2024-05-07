@@ -37,3 +37,5 @@ Yet, beyond the confines of web application development, the principles of Agile
 <h2>Wrapping it All Up</h2>
 <p>
 In conclusion, my journey through software engineering education has been transformative, revealing the interconnectedness of technical expertise, ethical considerations, and agile project management principles. From mastering code to navigating ethical dilemmas and embracing Agile methodologies, each aspect has shaped my understanding of the profession. As I step forward, I carry with me a commitment to ethical integrity, adaptability, and collaboration, ready to embark on the next chapter with confidence and a steadfast dedication to excellence, knowing that in the dynamic landscape of technology, every decision carries the potential to shape a better, more equitable future.</p>
+
+*Note that I used ChatGPT to improve grammar and spelling in this document*

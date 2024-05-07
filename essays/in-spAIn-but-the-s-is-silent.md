@@ -89,3 +89,6 @@ A professor once told me, "You can learn almost anything on the internet if you'
 
 ### VIII. Conclusion:
 In the end, having AI readily available is either a blessing or a burden, depending on how it's utilized. As one of my professors once told me, "you can learn almost anything on the internet with dedication and effort," and AI significantly accelerates this process. I believe AI will only improve further from here, so it's practical to leverage the tools at our disposal. While AI technology may advance, human nature remains constant.
+
+
+*Note that I used ChatGPT to improve grammar and spelling in this document*

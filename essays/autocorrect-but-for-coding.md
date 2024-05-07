@@ -26,4 +26,4 @@ labels:
   <p>In conclusion, my experience with ESLint has been both beneficial and challenging, and surprisingly, each aspect has contributed positively to my coding journey. The challenge lies in the discomfort it brought, prompting self-reflection on the growing sloppiness in my code writing and its tangible impact on my daily routines. However, this discomfort has proven to be useful as it spurred newfound awareness, encouraging me to address and enhance my coding practices. In less than a week of integrating ESLint into my workflow, I'm already anticipating the broader benefits it might bring throughout the semester. It's reminiscent of the wise saying, "A problem well defined is a problem half solved," so I guess my coding problem is halfway solved. </p>
 
   
-*side note I have made this essay with the help of ChatGPT to help with grammar & such
+*Note that I used ChatGPT to improve grammar and spelling in this document*
