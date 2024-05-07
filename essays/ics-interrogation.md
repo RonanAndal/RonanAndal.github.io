@@ -12,7 +12,9 @@ labels:
 
 
 
-<img src = "https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/58e2e53b-2ff0-4d29-9db0-7855dfff0b97" width = 500px/>
+<div style="text-align: center;">
+    <img src="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/58e2e53b-2ff0-4d29-9db0-7855dfff0b97" width="500px" />
+</div>
 
 ## The Power of Asking Smart Questions
 <p>"The important thing is not to stop questioning," as Albert Einstein said. Simple questions have simple answers, while smart questions have answers that could mark the turning point in your career, the start of a new journey, or the end of a recurring one. But before you obtain these answers, you must first ask the question. And to ask the right question, you must know which one to ask — not just any question, but a smart one. </p>
