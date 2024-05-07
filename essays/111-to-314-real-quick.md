@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-    <img src="../img/cotton/software-engineering.jpeg" />
+    <img src="../img/cotton/111-to-314.jpg" />
 </div>
 
 <h2>Lessons I Learned</h2> 
