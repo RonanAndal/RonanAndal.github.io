@@ -21,6 +21,7 @@ summary: "Videos from recent projects."
         <a href="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/e92f2711-6377-49b1-bebe-fde4d824c778">Link To Video</a>
 </Row>
 
+## Visual Ventures
 <p>Beyond coding, I have a passion for capturing the beauty I encounter through photography and videography, sharing these visual treasures with a select audience online.</p>
 
 <p><strong>Attachments Explained:</strong></p>
