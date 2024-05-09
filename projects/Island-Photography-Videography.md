@@ -17,7 +17,7 @@ summary: "Videos from recent projects."
         <a href="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/4b1f245e-b8b1-43d8-be26-9c197208094d"><img width="200" alt="Screen Shot 2024-01-18 at 9 15 32 PM" src="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/64034e93-6bfb-4486-b4d8-d11f6f195417"></a>
         <a href="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/4b1f245e-b8b1-43d8-be26-9c197208094d">Link To Video</a>
     <Col xs="6">
-        <img width="400" alt="Untitled" src="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/37b28c17-8630-4921-84c8-9ddd2be17ae4">
+        <a href ="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/e92f2711-6377-49b1-bebe-fde4d824c778"><img width="400" alt="Untitled" src="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/37b28c17-8630-4921-84c8-9ddd2be17ae4"></a>
         <a href="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/e92f2711-6377-49b1-bebe-fde4d824c778">Link To Video</a>
 </Row>
 
