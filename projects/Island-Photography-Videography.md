@@ -14,6 +14,8 @@ summary: "Videos from recent projects."
 
 <Row>
         <a href="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/4b1f245e-b8b1-43d8-be26-9c197208094d"><img width="200" alt="Screen Shot 2024-01-18 at 9 15 32 PM" src="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/64034e93-6bfb-4486-b4d8-d11f6f195417"></a>
+</Row>
+
 
 *Click on the images to navigate to the corresponding videos.*
 
