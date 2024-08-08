@@ -28,7 +28,7 @@ summary: "Videos from recent projects."
 <a href = "[mckinley thank you vid final.mp4](..%2F..%2F..%2F..%2FDesktop%2Fmckinley%20thank%20you%20vid%20final.mp4)"><img src="../img/cotton/chatGPT.jpeg">
 
 <video width="600" controls>
-  <source src="[mckinley thank you vid final.mp4](..%2Fimg%2Fcotton%2Fmckinley%20thank%20you%20vid%20final.mp4)" type="video/mp4">
+  <source src="../img/cotton/mckinley%20thank%20you%20vid%20final.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
