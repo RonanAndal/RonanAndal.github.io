@@ -13,7 +13,10 @@ summary: "Videos from recent projects."
 
 
 <Row>
-        <a href="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/4b1f245e-b8b1-43d8-be26-9c197208094d"><img width="200" alt="Screen Shot 2024-01-18 at 9 15 32 PM" src="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/64034e93-6bfb-4486-b4d8-d11f6f195417"></a>
+        <video width="300" controls>
+  <source src="../img/cotton/yeng%20navarro%20for%20portfolio.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </Row>
 
 
