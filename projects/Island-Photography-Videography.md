@@ -20,10 +20,12 @@ summary: "Videos from recent projects."
 *Click on the images to navigate to the corresponding videos.*
 
 
-## Visual Ventures
+## Content Work for High School
 <p>Beyond coding, I have a passion for capturing the beauty I encounter through photography and videography, sharing these visual treasures with a select audience online.</p>
 
 <a href ="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/e92f2711-6377-49b1-bebe-fde4d824c778"><img width="400" alt="Untitled" src="https://github.com/RonanAndal/RonanAndal.github.io/assets/156995607/37b28c17-8630-4921-84c8-9ddd2be17ae4"></a>
+
+<a href = "[mckinley thank you vid final.mp4](..%2F..%2F..%2F..%2FDesktop%2Fmckinley%20thank%20you%20vid%20final.mp4)"><img src="../img/cotton/chatGPT.jpeg">
 
 <p><strong>Attachments Explained:</strong></p>
 <ol>
