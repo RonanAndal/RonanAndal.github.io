@@ -36,10 +36,25 @@ summary: "Videos from recent projects."
   Your browser does not support the video tag.
 </video>
 
+## Video Editting for Clients
+<p>Over the years, acquaintances have frequently sought my video editing services after seeing and appreciating the quality of my work.</p>
+
+<video width="600" controls>
+  <source src="../img/cotton/4%20julia%20final.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="600" controls>
+  <source src="../img/cotton/for%20julia%202.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <p><strong>Attachments Explained:</strong></p>
 <ol>
     <li>A photoshoot commemorating the graduation of a friend from college.</li>
     <li>A video production created to commemorate my senior class's last homecoming week in high school.</li>
+    <li>A short video dedicated to those working throughout covid putting their lives on the line </li>
+    <li>Short reels I made for a friend showcasing her artwork</li> 
 </ol>
 
 
