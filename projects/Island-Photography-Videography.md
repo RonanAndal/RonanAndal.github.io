@@ -39,7 +39,7 @@ summary: "Videos from recent projects."
 ## Video Editting for Clients
 <p>Over the years, acquaintances have frequently sought my video editing services after seeing and appreciating the quality of my work.</p>
 
-<video width="600" controls>
+<video width="300" controls>
   <source src="../img/cotton/4%20julia%20final.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
