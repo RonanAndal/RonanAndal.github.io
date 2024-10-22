@@ -44,15 +44,27 @@
   ],
   "work": [
     {
+      "company": "UH Manoa TPSS",
+      "position": "Digital Media Assistant / Web Developer",
+      "website": "https://www.uhot.org/",
+      "startDate": "2024-10-21",
+      "endDate": "Present",
+      "summary": "Responsible for developing and managing the website for the UH Organic Transition project (UHOT)",
+      "highlights": [
+        "Successfully redesigned and optimized the UHOT website, improving user experience and accessibility.",
+        "Managed and updated the website’s content management system, ensuring accurate and timely updates."
+      ]
+    },
+    {
       "company": "UH Manoa OFDAS",
       "position": "Student Assistant",
       "website": "https://www.ofdas.hawaii.edu/",
       "startDate": "2023-12-28",
-      "endDate": "Present",
+      "endDate": "2024-10-20",
       "summary": "Tech-oriented Student Assistant providing support, customer service, and multitasking",
       "highlights": [
         "Developed an online check out system for our library, enhancing transaction efficiency",
-        "Provided technical support to colleagues and assisted in troubleshootine common issues setup countless computers & projectors for meetings / events to be ready",
+        "Provided technical support to colleagues and assisted in troubleshootine common issues setup countless computers & projectors for meetings / events to be ready"
       ]
     },
     {
