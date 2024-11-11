@@ -24,7 +24,7 @@ More details about my job and what they do : <a href="https://manoa.hawaii.edu/c
 
 
 
-a significant aspect of my role centered around managing and enhancing the UHOT website. Beyond routine updates, I was responsible for making the website an engaging, up-to-date platform that reflects the latest developments, research, and events in organic farming. This involved not only keeping content relevant by incorporating new findings and community activities but also focusing on the site’s overall design to improve user experience. By optimizing visuals, updating layouts, and enhancing navigation, I aimed to create a more user-friendly environment that effectively communicates the project’s mission. Through these efforts, I worked to ensure the website remains an accessible, dynamic resource for both seasoned organic farmers and those new to sustainable agriculture practices.
+A significant aspect of my role centered around managing and enhancing the UHOT website, where I utilized my skills in Wix, JavaScript, and HTML to develop a more engaging, interactive platform. Beyond routine updates, I integrated dynamic content elements to keep the website relevant with the latest research, findings, and events in organic farming. By implementing custom HTML and JavaScript, I was able to fine-tune the design and interactivity, allowing for a more user-friendly navigation and a visually appealing layout that effectively conveys the project's mission. Leveraging Wix’s design tools, I optimized visual components, updated layouts, and streamlined navigation, aiming to make the website a valuable, accessible resource for seasoned organic farmers and newcomers to sustainable agriculture alike. Through these efforts, I transformed the UHOT website into a dynamic, informative hub that aligns with the evolving needs of its audience.
 
 
 
@@ -40,7 +40,7 @@ The University of Hawaiʻi Organic Transition (UHOT) website is designed to guid
 <img src="../img/uhot-homepage.png" alt="UHOT Landing Page" >
 
 
-Throughout my position it showed me how much I love the creative side of creating a website, and when given the chance to
+Throughout my position, I discovered just how much I love the creative side of building a website. Each project, from enhancing visual layouts to optimizing user interactions, gave me the opportunity to think innovatively and explore design choices that could make a meaningful impact on the user experience.
 
 *more screenshots of pages on this project*
 
