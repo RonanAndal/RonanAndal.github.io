@@ -8,12 +8,8 @@ title: "Rec Center Warriors App"
 date: 2024
 published: true
 labels:
-  - HTML
-  - Javascript
-  - CSS
-  - Web Design
   - School
-  - IntelliJ
+  - Web Design
 summary: "Developed a website tailored to both gym enthusiasts and non-gym goers at UH Manoa."
 ---
 
