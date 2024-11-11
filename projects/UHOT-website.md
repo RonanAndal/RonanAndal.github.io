@@ -44,11 +44,11 @@ Throughout my position it showed me how much I love the creative side of creatin
 
 *more screenshots of pages on this project*
 
-<img src="../img/uhot-osp.png" alt="UHOT Landing Page" width="599">
+<img src="../img/uhot-osp.png" alt="UHOT Home Page" width="599">
 
 
 
-<p><img src="../img/cotton/exercises-page.png" alt = "RC Warriors Exercises Page" width="599"></p>
+<p><img src="../img/cotton/uhot-newspage.png" alt = "UHOT News Page" width="599"></p>
 
 <p><img src="../img/cotton/guide-page.png" alt = "RC Warriors guide page" width="599"></p>
 
