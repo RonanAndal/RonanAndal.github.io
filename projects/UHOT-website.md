@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/cotton/thumbnail_UHOT.jpeg
+image: img/cotton/thumbnail_UHOT.png
 
 
-title: "University of Hawaii Organic Transition Program Website"
+title: "UH Organic Transition Program Website"
 date: 2024
 published: true
 labels:
