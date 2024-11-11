@@ -48,7 +48,7 @@ Throughout my position it showed me how much I love the creative side of creatin
 
 
 
-<p><img src="../img/cotton/uhot-newspage.png" alt = "UHOT News Page" width="599"></p>
+<p><img src="../img/uhot-newspage.png" alt = "UHOT News Page" width="599"></p>
 
-<p><img src="../img/cotton/uhot-osp-explained.png" alt = "UHOT osp explained page" width="599"></p>
+<p><img src="../img/uhot-osp-explained.png" alt = "UHOT osp explained page" width="599"></p>
 
