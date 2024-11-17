@@ -13,7 +13,7 @@ labels:
   - Javascript
   - CSS
   - Web Design
-summary: "Maintained and updated the website for my position, ensuring consistent content updates, improved user experience, and alignment with project goals."
+summary: "Updated and maintained the website for my position at UH Manoa"
 ---
 
 ## Project Overview
