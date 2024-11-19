@@ -9,6 +9,9 @@ date: 2024
 published: true
 labels:
   - School
+  - Github
+  - Javascript
+  - HTML
   - Web Design
 summary: "Developed a website tailored to both gym enthusiasts and non-gym goers at UH Manoa."
 ---
