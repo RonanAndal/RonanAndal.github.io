@@ -4,7 +4,7 @@ type: project
 image: img/cotton/thumbnail_WRC.jpeg
 
 
-title: "Rec Center Warriors App"
+title: "Rec Center Warriors"
 date: 2024
 published: true
 labels:
