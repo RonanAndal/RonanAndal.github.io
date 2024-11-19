@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/thumbnail_photography.png
+image: img/cotton/thumbnail_photography2.png
 title: "Island Photography/Videography"
 date: 2023
 published: true
