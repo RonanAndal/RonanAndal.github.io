@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/thumbnail_WRC.jpg
+image: img/cotton/thumbnail_WRC.jpeg
 
 
 title: "Rec Center Warriors App"
