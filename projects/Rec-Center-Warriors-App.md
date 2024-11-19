@@ -8,7 +8,7 @@ title: "Rec Center Warriors"
 date: 2024
 published: true
 labels:
-  - School
+  - Team Project
   - Github
   - Javascript
   - HTML
