@@ -5,7 +5,7 @@ image: img/cotton/thumbnail_OFDAS.png
 
 
 title: "Automated Library Checkout System"
-date: 2024-07-12
+date: 2024/07/12
 published: true
 labels:
   - Airtable
