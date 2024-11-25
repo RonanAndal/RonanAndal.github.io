@@ -17,9 +17,10 @@
     { "name": "Programming" },
     { "name": "Web Design" },
     { "name": "Interactive media" },
-    { "name": "Network Management" },
+    { "name": "Software engineering" },
+    { "name": "Content Creation" },
+    { "name": "Digital Media" },
     { "name": "Video editing" },
-    { "name": "Graphic design" }
   ],
   "skills": [
     {
