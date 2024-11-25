@@ -22,26 +22,21 @@ summary: "Designed an automated library checkout system during my time at OFDAS"
 
 
 
-For many people, initiating a fitness journey can be daunting, especially when confronted with the intimidating atmosphere of a gym. Personally, I began my journey with the help of a friend, who assisted me in gradually transitioning to working out independently. Rec Center Warriors provides a platform to connect individuals with potential workout partners, facilitating a smoother entry into the gym experience. Whether one is seeking a companion for workouts or simply aiming to engage with others on their fitness journey, Rec Center Warriors offers a welcoming environment where members can support and motivate each other.
+Developed an efficient and user-friendly library checkout system for the Office of Faculty Development and Academic Support at UH Manoa, leveraging Airtable's API to streamline the book borrowing process. The system automates email notifications to alert staff and users when a book request is made, and provides timely reminders for upcoming due dates or overdue returns, ensuring a smooth and organized library experience.
 
 
-<img src="../img/rcwarriors-landingpage.png" alt="RC Warriors Landing Page" width="599">
-
-## Project Contributions
-
-I collaborated with my colleagues to develop this website, contributing to various aspects of the project. Among my contributions were enhancing the functionality of the navbar, making the register page, and sourcing the background image. Additionally, I initiated the exercises collection, which was later refined by a friend. I crafted the initial landing page post-login, curated relevant images, and designed on-screen buttons. Moreover, I took responsibility for updating the homepage making sure it met the requirements with M1, M2, and M3.
-
-
-<img src="../img/rcwarriors-welcomepage.png" alt="RC Warriors Landing Page" width="700">
+<img src="../img/OFDAS-landingpage.png" alt="RC Warriors Landing Page" width="599">
 
 
 
-*more screenshots of pages on this project*
 
-<img src="../img/rcwarriors-signin-page.png" alt="RC Warriors Landing Page" width="599">
-
+<img src="../img/OFDAS-bookcatalogue.png" alt="RC Warriors Landing Page" width="700">
 
 
-<p><img src="../img/cotton/exercises-page.png" alt = "RC Warriors Exercises Page" width="599"></p>
 
-<p><img src="../img/cotton/guide-page.png" alt = "RC Warriors guide page" width="599"></p>
+
+<img src="../img/OFDAS-requestform.png" alt="RC Warriors Landing Page" width="599">
+
+
+
+
