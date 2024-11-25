@@ -5,7 +5,7 @@ image: img/cotton/thumbnail_WRC.jpeg
 
 
 title: "Rec Center Warriors"
-date: 2024
+date: 2024-05-11
 published: true
 labels:
   - Team Project
