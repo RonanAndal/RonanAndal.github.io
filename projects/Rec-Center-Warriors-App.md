@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/thumbnail_WRC.jpeg
+image: img/cotton/thumbnail_WRC.gif
 
 
 title: "Rec Center Warriors"
