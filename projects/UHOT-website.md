@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/thumbnail_UHOT.png
+image: img/cotton/thumbnail_uhot.gif
 
 
 title: "UH Organic Transition Program Website"
