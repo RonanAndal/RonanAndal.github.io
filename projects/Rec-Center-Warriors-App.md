@@ -13,7 +13,7 @@ labels:
   - Javascript
   - HTML
   - Web Design
-summary: "Developed a website tailored to both gym enthusiasts and non-gym goers at UH Manoa."
+summary: "Developed a full-stack web application with some classmates to make a social media platform for UH Manoa’s Recreation Center."
 ---
 
 ## Project Overview
