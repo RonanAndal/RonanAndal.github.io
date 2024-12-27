@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/thumbnail_OFDAS.png
+image: img/thumbnail-auto-library.gif
 
 
 title: "Automated Library Checkout System"
