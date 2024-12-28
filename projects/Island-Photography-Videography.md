@@ -13,10 +13,11 @@ summary: "Videos from recent projects."
 
 
 <Row>
-        <video width="300" controls>
+        <video width="300" controls poster="../img/thumbnailyeng2.jpeg">
   <source src="../img/cotton/yeng%20navarro%20for%20portfolio.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 </Row>
 
 
@@ -26,7 +27,7 @@ summary: "Videos from recent projects."
 ## Content Work for High School
 <p>Beyond coding, I have a passion for capturing the beauty I encounter through photography and videography, sharing these visual treasures with a select audience online.</p>
 
-<video width="600" controls>
+<video width="600" controls poster="../img/thumbnailhoco.jpeg">
   <source src="../img/cotton/hoco%202020%20video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
