@@ -32,7 +32,7 @@ summary: "Videos from recent projects."
   Your browser does not support the video tag.
 </video>
 
-<video width="600" controls>
+<video width="600" controls poster="../img/thumbnail-staysafetigers.jpeg">
   <source src="../img/cotton/mckinley%20thank%20you%20vid%20final.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -40,12 +40,12 @@ summary: "Videos from recent projects."
 ## Video Editting for Clients
 <p>Over the years, acquaintances have frequently sought my video editing services after seeing and appreciating the quality of my work.</p>
 
-<video width="300" controls>
+<video width="300" controls poster = "../img/thumbnail-julia1.jpeg">
   <source src="../img/cotton/4%20julia%20final.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-<video width="600" controls>
+<video width="600" controls poster = "../img/thumbnail-julia2.jpeg">
   <source src="../img/cotton/for%20julia%202.mov" type="video/mp4">
   Your browser does not support the video tag.
 </video>
