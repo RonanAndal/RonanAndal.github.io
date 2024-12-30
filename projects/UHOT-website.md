@@ -5,7 +5,7 @@ image: img/cotton/thumbnail_uhot.gif
 
 
 title: "UH Organic Transition Program Website"
-date: 2024/10/28
+date: 2024/10
 published: true
 labels:
   - Wix
