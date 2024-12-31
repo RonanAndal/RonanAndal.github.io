@@ -111,3 +111,17 @@ input:focus, textarea:focus {
   border-color: var(--tf-accent-color);
   outline: none;
 }
+
+.navbar {
+  background-color: #111 !important; /* A rich black background */
+  border-bottom: 1px solid #444; /* Subtle border */
+}
+
+.navbar a {
+  color: #ccc !important; /* Light gray text */
+  transition: color 0.3s ease; /* Smooth hover effect */
+}
+
+.navbar a:hover {
+  color: #fff !important; /* Brighter text on hover */
+}
