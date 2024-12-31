@@ -129,3 +129,10 @@ input:focus, textarea:focus {
 body.some-class {
   background-color: #000 !important;
 }
+
+html, body {
+  background-color: #000; /* Set the page background to black */
+  color: #fff; /* Ensure the text contrasts with the background */
+  margin: 0;
+  padding: 0;
+}
