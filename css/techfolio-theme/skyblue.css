@@ -137,10 +137,3 @@ html, body {
   padding: 0;
 }
 
-:root {
-  --bs-: #000; /* Set a fallback black background */
-}
-
-div {
-  background-color: black !important;
-}
