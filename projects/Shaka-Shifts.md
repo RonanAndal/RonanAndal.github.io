@@ -24,9 +24,13 @@ Github Organization: [Shaka-Shifts](https://github.com/ShakaShifts/ShakaShifts.g
 
 *STILL IN PROGRESS*
 
-More details about the site : <a href="https://syntax-souljahs.github.io/"> Shaka Shifts </a>
+More details about the site : <a href="https://syntax-souljahs.github.io/"> Click Here </a>
+
+<img src="../img/shakashifts_landingpage.png" alt="Shaka Shifts Landing Page" width="599">
 
 Managing work schedules can often be a challenge, especially when coordinating shift swaps, tracking availability, and ensuring seamless communication among team members. Inspired by workplace scheduling apps at Hawaiian Airlines and Target, Shaka Shifts provides a streamlined platform for employees to manage their schedules with ease. The app enables users to create and view schedules, put shifts up for grabs, and set their availability, fostering a collaborative and efficient work environment. Whether you're swapping shifts, checking your upcoming schedule, or managing time-off requests, Shaka Shifts ensures that workplace scheduling is simple, transparent, and accessible.
+
+<img src="../img/shakashifts-employee-page.png" alt="Shaka Shifts Employee Page" width="700">
 
 With Shaka Shifts, users can:
 
@@ -50,12 +54,6 @@ Planned features:
 - Notifications for admins and employees about schedule updates or shift changes
 - Enhanced user interface with mobile-friendly design
 - Reporting and analytics tools for admins to track employee attendance and shift trends
-
-<img src="../img/shakashifts_landingpage.png" alt="Shaka Shifts Landing Page" width="599">
-
-
-<img src="../img/shakashifts-employee-page.png" alt="Shaka Shifts Employee Page" width="700">
-
 
 *more screenshots of pages on this project*
 
