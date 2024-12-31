@@ -5,7 +5,7 @@ image: img/thumbnail-auto-library.gif
 
 
 title: "Automated Library Checkout System"
-date: 2024/07/11
+date: 2024/07
 published: true
 labels:
   - Airtable

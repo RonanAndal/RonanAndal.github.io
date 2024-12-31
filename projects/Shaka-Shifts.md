@@ -1,26 +1,28 @@
 ---
 layout: project
 type: project
-image: img/cotton/thumbnail_WRC.gif
+image: img/cotton/thumbnail_shakashifts.gif
 
 
-title: "Rec Center Warriors"
-date: 2024/05
+title: "Shaka Shifts"
+date: 2025/01
 published: true
 labels:
-  - Team Project
-  - Github
-  - Javascript
-  - HTML
-  - Web Design
-summary: "Developed a full-stack web application with some classmates to make a social media platform for UH Manoa’s Recreation Center."
+  - Next.js
+  - React
+  - Redux
+  - Node.js
+  - PHP
+  - Git
+  - Postman / Curl
+summary: "Designed a full-stack web application inspired by Hawaiian Airlines and Target's workplace scheduling apps, utilizing modern web technologies for secure authentication and dynamic user interfaces."
 ---
 
 ## Project Overview
 
-Our Github Organization: [Syntax-Souljahs](https://github.com/Syntax-Souljahs)
+Github Organization: [Shaka-Shifts](https://github.com/ShakaShifts/ShakaShifts.github.io)
 
-More details about the site : <a href="https://syntax-souljahs.github.io/"> Rec Center Warriors </a>
+More details about the site : <a href="https://syntax-souljahs.github.io/"> Shaka Shifts </a>
 
 Website: <a href="https://rcwarriors.fit">RC WARRIORS</a>
 
