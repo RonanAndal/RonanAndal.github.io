@@ -6,7 +6,7 @@ image: img/thumbnail_shakashifts.gif
 
 title: "Shaka Shifts"
 date: 2025/01
-published: true
+published: false
 labels:
   - Next.js
   - React
