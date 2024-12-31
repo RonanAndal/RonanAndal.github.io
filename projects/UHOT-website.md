@@ -28,7 +28,7 @@ A significant aspect of my role centered around managing and enhancing the UHOT 
 
 
 
-<img src="../img/uhot-resourcespage.png" alt="UHOT Landing Page" width=599>
+<p><img src="../img/uhot-resourcespage.png" alt="UHOT Landing Page" width=599> <img src="../img/uhot-homepage.png" alt="UHOT Landing Page" width=599></p>
 
 
 
