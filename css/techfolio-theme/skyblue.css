@@ -125,3 +125,7 @@ input:focus, textarea:focus {
 .navbar a:hover {
   color: #fff !important; /* Brighter text on hover */
 }
+
+body.some-class {
+  background-color: #000 !important;
+}
