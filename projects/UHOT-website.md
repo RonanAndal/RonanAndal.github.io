@@ -28,7 +28,7 @@ A significant aspect of my role centered around managing and enhancing the UHOT 
 
 
 
-<p><img src="../img/uhot-resourcespage.png" alt="UHOT Landing Page" width=599> <img src="../img/uhot-homepage.png" alt="UHOT Landing Page" width=599></p>
+<p><img src="../img/uhot-resourcespage.png" alt="UHOT Landing Page" width=400> <img src="../img/uhot-homepage.png" alt="UHOT Landing Page" width=400></p>
 
 
 
@@ -37,18 +37,11 @@ A significant aspect of my role centered around managing and enhancing the UHOT 
 The University of Hawaiʻi Organic Transition (UHOT) website is designed to guide and support those interested in making a shift towards organic methods. The UHOT site serves as a hub of resources, offering insights into organic techniques, case studies, and research updates, while also providing tools to connect with the broader community. Whether you're seeking guidance on organic methods or looking to engage with others committed to sustainable agriculture, the UHOT website is here to support and inspire a collaborative journey toward a greener future.
 
 
-<img src="../img/uhot-homepage.png" alt="UHOT Landing Page" width=599>
+<p><img src="../img/uhot-osp.png" alt="UHOT Home Page" width="400"> <img src="../img/uhot-newspage.png" alt = "UHOT News Page" width="400"></p>
 
 
 Throughout my position, I discovered just how much I love the creative side of building a website. Each project, from enhancing visual layouts to optimizing user interactions, gave me the opportunity to think innovatively and explore design choices that could make a meaningful impact on the user experience.
 
-*more screenshots of pages on this project*
-
-<img src="../img/uhot-osp.png" alt="UHOT Home Page" width="599">
-
-
-
-<p><img src="../img/uhot-newspage.png" alt = "UHOT News Page" width="599"></p>
 
 <p><img src="../img/uhot-osp-explained.png" alt = "UHOT osp explained page" width="599"></p>
 
