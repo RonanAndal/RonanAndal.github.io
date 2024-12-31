@@ -29,15 +29,13 @@ Managing work schedules can often be a challenge, especially when coordinating s
 <img src="../img/shakashifts_landingpage.png" alt="Shaka Shifts Landing Page" width="599">
 
 
-<img src="../img/rcwarriors-welcomepage.png" alt="RC Warriors Landing Page" width="700">
+<img src="../img/shakashifts-employee-page.png" alt="Shaka Shifts Employee Page" width="700">
 
 
 *more screenshots of pages on this project*
 
-<img src="../img/rcwarriors-signin-page.png" alt="RC Warriors Landing Page" width="599">
+<img src="../img/shakashifts-signin.png" alt="Shaka Shifts Sign In Page" width="599">
 
 
 
-<p><img src="../img/cotton/exercises-page.png" alt = "RC Warriors Exercises Page" width="599"></p>
 
-<p><img src="../img/cotton/guide-page.png" alt = "RC Warriors guide page" width="599"></p>

@@ -2,47 +2,24 @@
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
-@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700");
 
-/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-dark-bg: #121212; /* Background color */
-  --tf-dark-accent1: #1f1f1f; /* Slightly lighter black for sections */
-  --tf-text-color: #f5f5f5; /* Bright white for text */
-  --tf-muted-text: #b0b0b0; /* Muted text for secondary information */
-  --tf-accent-color: #4a90e2; /* Accent color for links and highlights */
-  --tf-link-hover: #66b2ff; /* Link hover effect */
-  --tf-pill-bg: var(--tf-accent-color);
-  --tf-icon-fill: var(--tf-accent-color);
-  --tf-icon-hover: var(--tf-link-hover);
-  --tf-page-bg-color: var(--tf-dark-bg);
-  --tf-footer-bg-color: var(--tf-dark-accent1);
-  --tf-projects-bg-color: var(--tf-dark-accent1);
+  --tf-dark-bg: #121212;
+  --tf-text-color: #f5f5f5;
+  --tf-accent-color: #4a90e2;
+  --tf-link-hover: #66b2ff;
 }
 
-body {
+html, body {
   background-color: var(--tf-dark-bg);
   color: var(--tf-text-color);
+  margin: 0;
+  padding: 0;
   font-family: "Open Sans", sans-serif;
 }
 
 h1, h2, h3, h4, h5 {
   color: var(--tf-accent-color);
-  font-family: Rubik;
-}
-
-/* Format social media icons */
-.tf-social {
-  display: inline-block;
-  fill: var(--tf-accent-color);
-  height: 1.5em;
-  vertical-align: -.1em;
-  width: 1.5em;
-  transition: 0.2s;
-}
-
-.tf-social:hover {
-  fill: var(--tf-icon-hover);
 }
 
 a {
@@ -55,31 +32,12 @@ a:hover {
   color: var(--tf-link-hover);
 }
 
-.rounded-circle {
-  border-color: var(--tf-accent-color);
-  border-style: solid;
-  border-width: 1px;
-}
-
-footer {
-  background-color: var(--tf-footer-bg-color);
-  color: var(--tf-muted-text);
-  padding: 1.5rem;
-}
-
-.tf-projects {
-  background-color: var(--tf-projects-bg-color);
-  padding: 1.5rem;
-  border-radius: 8px;
-}
-
-p {
+p, a, code, pre {
   color: var(--tf-text-color);
 }
 
 code, pre {
-  background-color: var(--tf-dark-accent1);
-  color: var(--tf-text-color);
+  background-color: #1f1f1f;
   padding: 0.5rem;
   border-radius: 4px;
 }
@@ -99,41 +57,16 @@ button:hover {
   background-color: var(--tf-link-hover);
 }
 
-input, textarea {
-  background-color: var(--tf-dark-accent1);
-  color: var(--tf-text-color);
-  border: 1px solid var(--tf-muted-text);
-  border-radius: 4px;
-  padding: 0.5rem;
-}
-
-input:focus, textarea:focus {
-  border-color: var(--tf-accent-color);
-  outline: none;
-}
-
 .navbar {
-  background-color: #111 !important; /* A rich black background */
-  border-bottom: 1px solid #444; /* Subtle border */
+  background-color: #111 !important;
+  border-bottom: 1px solid #444;
 }
 
 .navbar a {
-  color: #ccc !important; /* Light gray text */
-  transition: color 0.3s ease; /* Smooth hover effect */
+  color: #ccc !important;
+  transition: color 0.3s ease;
 }
 
 .navbar a:hover {
-  color: #fff !important; /* Brighter text on hover */
+  color: #fff !important;
 }
-
-body.some-class {
-  background-color: #000 !important;
-}
-
-html, body {
-  background-color: #000; /* Set the page background to black */
-  color: #fff; /* Ensure the text contrasts with the background */
-  margin: 0;
-  padding: 0;
-}
-
