@@ -23,7 +23,6 @@ Our Github Organization: [Syntax-Souljahs](https://github.com/Syntax-Souljahs)
 More details about the site : <a href="https://syntax-souljahs.github.io/"> Rec Center Warriors </a>
 
 Website: <a href="https://rcwarriors.fit">RC WARRIORS</a>
-*Currently inactive as the subscription was not renewed after completion of the class project.* 
 
 For many people, initiating a fitness journey can be daunting, especially when confronted with the intimidating atmosphere of a gym. Personally, I began my journey with the help of a friend, who assisted me in gradually transitioning to working out independently. Rec Center Warriors provides a platform to connect individuals with potential workout partners, facilitating a smoother entry into the gym experience. Whether one is seeking a companion for workouts or simply aiming to engage with others on their fitness journey, Rec Center Warriors offers a welcoming environment where members can support and motivate each other.
 
