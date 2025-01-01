@@ -1,12 +1,12 @@
 <div class="col-md-6 col-lg-4">
   <div class="card h-100" style="background-color: #222; color: #ccc; border: 1px solid #444;">
     <div class="card-body">
-      <h5 class="card-title" style="color: var(--tf-blue1);">{{ include.page.title }}</h5>
+      <h5 class="card-title" style="color: #222;">{{ include.page.title }}</h5>
       <p class="card-text"><small class="text-muted" style="color: #999;">{{ include.page.date | date_to_string }}</small></p>
       <p class="card-text">{{ include.page.content | markdownify | strip_html | truncatewords: 40 }}</p>
       <p>
         {% for label in include.page.labels %}
-        <span style="background-color: var(--tf-blue3); color: #fff;" class="badge rounded-pill">{{ label }}</span>
+        <span style="background-color: #222; color: #fff;" class="badge rounded-pill">{{ label }}</span>
         {% endfor %}
       </p>
     </div>
