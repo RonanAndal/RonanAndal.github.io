@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Ronan Russel Andal",
-    "label": "Student",
+    "label": "Web Designer / IT Student Assistant",
     "picture": "https://github.com/RonanAndal.png",
     "email": "rrandal@hawaii.edu",
     "phone": "808-782-6101",
     "website": "https://RonanAndal.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "summary": "Aloha! I am a Computer Science student at the University of Hawaii, with a passion for developing innovative solutions and user-friendly applications. I expect to graduate in Fall 2025 and have experience in full-stack development, web design, and problem-solving.",
     "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "RonanAndal", "url": "http://github.com/RonanAndal" },
@@ -14,10 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Programming" },
+    { "name": "Software Engineering" },
     { "name": "Web Design" },
-    { "name": "Interactive media" },
-    { "name": "Software engineering" },
+    { "name": "Interactive Media" },
+    { "name": "Information Technology" },
     { "name": "Content Creation" },
     { "name": "Digital Media" },
     { "name": "Video editing" },
