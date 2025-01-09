@@ -20,7 +20,7 @@ summary: "Designed a full-stack web application inspired by Hawaiian Airlines an
 
 ## Project Overview
 
-Github Organization: [Shaka-Shifts](https://github.com/ShakaShifts/ShakaShifts.github.io)
+Github Organization: [Shaka-Shifts](https://github.com/ShakaShifts/shakashifts)
 
 *STILL IN PROGRESS*
 
@@ -32,9 +32,7 @@ Managing work schedules can often be a challenge, especially when coordinating s
 
 With Shaka Shifts, users can:
 
-- Create and view schedules
-- Set and communicate availability
-- Offer shifts for others to take
+- Create and view schedules for employees
 - Manage time-off requests seamlessly
 
 The platform aims to foster a collaborative and efficient work environment by ensuring that scheduling is simple, transparent, and accessible for everyone. Whether you're swapping shifts, reviewing your upcoming schedule, or managing team availability, Shaka Shifts makes it easy.
@@ -43,15 +41,11 @@ The platform aims to foster a collaborative and efficient work environment by en
 Current features:
 - Preloaded default employees in the roster with customizable attributes (e.g., date hired, ID, etc.)
 - A working admin sign-in page
+- Can create new employees with departments, age, ID# etc.
 
 Planned features:
-- Employees can submit their availability for admin review
-- Admins can create and assign schedules to employees
-- Employees can offer up their shifts for others to take if they're unavailable
-- Other employees can pick up available shifts if they meet the requirements
-- Notifications for admins and employees about schedule updates or shift changes
-- Enhanced user interface with mobile-friendly design
-- Reporting and analytics tools for admins to track employee attendance and shift trends
+- Set and communicate availability
+- Offer shifts for others to take
 
 *more screenshots of pages on this project*
 
