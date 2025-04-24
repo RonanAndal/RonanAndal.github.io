@@ -44,6 +44,18 @@
   ],
   "work": [
     {
+      "company": "Hawaii Housing Policy Foundation",
+      "position": "Data Analyst Intern",
+      "website": "https://www.hawaiihp.org/",
+      "startDate": "2025-2",
+      "endDate": "2025-5",
+      "summary": "Engineered a Python web application to automate extraction of conveyance tax values, sales prices, and sale dates from Bureau of Conveyance PDF documents, increasing data collection speed by 10x.",
+      "highlights": [
+        "Structured and exported extracted data into spreadsheets for streamlined reporting and housing policy analysis.",
+
+      ]
+    },
+    {
       "company": "UH Manoa College of Education",
       "position": "IT Student Assistant",
       "website": "https://coe.hawaii.edu/",
