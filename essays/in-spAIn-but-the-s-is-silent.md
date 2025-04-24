@@ -4,7 +4,7 @@ type: essay
 title: "In SpAIn But The S is Silent"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-27
-published: true
+published: false
 labels:
   - Software Engineering
   - Artificial inteligence

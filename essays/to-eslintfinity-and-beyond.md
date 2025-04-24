@@ -4,7 +4,7 @@ type: essay
 title: "To ESLintfinity and Beyond"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-03
-published: true
+published: false
 labels:
   - Engineering
 ---

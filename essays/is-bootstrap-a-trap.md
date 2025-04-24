@@ -4,7 +4,7 @@ type: essay
 title: "Is Bootstrap a Trap?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-20
-published: true
+published: false
 labels:
   - Bootstrap
   - Github
