@@ -1,15 +1,17 @@
 ---
 layout: project
 type: project
-image: img/hele-hale.gif
+image: img/thumbnail_shakashifts.gif
 
 
-title: "Hele Hale"
+title: "Ai.fish ping monitoring system"
 date: 2025/04
-published: true
+published: false
 labels:
   - Python
-  - Web Scraping
+  - PHP
+  - Git
+  - Postman / Curl
 summary: "Made an automated data web scraper for my internship at the Hawai'i Housing Policy Foundation"
 ---
 
