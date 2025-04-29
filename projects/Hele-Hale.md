@@ -4,7 +4,7 @@ type: project
 image: img/hele-hale.gif
 
 
-title: "Hele Hale"
+title: "Hele-Hale"
 date: 2025/04
 published: true
 labels:
