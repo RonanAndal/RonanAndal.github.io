@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/hele-hale.gif
+image: img/hhpf.gif
 
 
 title: "Hele-Hale"
@@ -10,7 +10,7 @@ published: true
 labels:
   - Python
   - Web Scraping
-summary: "Made an automated data web scraper for my internship at the Hawai'i Housing Policy Foundation"
+summary: "Engineered an automated data web scraper for my internship at the Hawai'i Housing Policy Foundation"
 ---
 
 ## Project Overview
