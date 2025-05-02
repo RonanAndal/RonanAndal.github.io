@@ -4,7 +4,7 @@ type: project
 image: img/Ai.fish.gif
 
 
-title: "Ai.fish ping monitoring system"
+title: "Ai.fish Ping Monitoring System"
 date: 2025/05
 published: true
 labels:
