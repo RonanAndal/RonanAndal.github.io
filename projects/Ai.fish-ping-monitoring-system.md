@@ -1,12 +1,12 @@
 ---
 layout: project
 type: project
-image: img/thumbnail_shakashifts.gif
+image: img/Ai.fish.gif
 
 
 title: "Ai.fish ping monitoring system"
 date: 2025/04
-published: false
+published: true
 labels:
   - Python
   - PHP
