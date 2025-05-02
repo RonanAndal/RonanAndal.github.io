@@ -30,6 +30,7 @@ To help ensure uptime and reliability, I built a ping monitoring system in Pytho
 
 This tool helped the team monitor system health without manual checking and provided a foundation for further alerting and logging tools. It runs directly on the low-powered edge devices used during multi-week fishing trips, supporting Ai.Fish's mission of scalable, sustainable marine monitoring.
 
+*our final poster for our capstone project*
 <img src="../img/Ai.Fish-Poster-Final.png" alt="ai.fish capstone poster" width="599">
 
 
