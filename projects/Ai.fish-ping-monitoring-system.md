@@ -5,13 +5,12 @@ image: img/Ai.fish.gif
 
 
 title: "Ai.fish ping monitoring system"
-date: 2025/04
+date: 2025/05
 published: true
 labels:
   - Python
-  - PHP
-  - Git
-  - Postman / Curl
+  - Slack API
+
 summary: "Built a real-time ping monitoring system that tracks connectivity of onboard AI devices for fishing vessels using low-powered edge computing."
 ---
 
