@@ -26,10 +26,11 @@ To help ensure uptime and reliability, I built a ping monitoring system in Pytho
 
 
 <img src="../img/ai.fish-meeting.png" alt="meeting with Ai.fish" width="700">
+*weekly meeting with the folks at ai.fish*
 
 This tool helped the team monitor system health without manual checking and provided a foundation for further alerting and logging tools. It runs directly on the low-powered edge devices used during multi-week fishing trips, supporting Ai.Fish's mission of scalable, sustainable marine monitoring.
 
-<img src="../img/shakashifts-signin.png" alt="Shaka Shifts Sign In Page" width="599">
+<img src="../img/Ai.Fish-Poster-Final.png" alt="ai.fish capstone poster" width="599">
 
 
 
