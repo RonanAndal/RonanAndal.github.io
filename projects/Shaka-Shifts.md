@@ -15,7 +15,7 @@ labels:
   - PHP
   - Git
   - Postman / Curl
-summary: "Designed a full-stack web application inspired by Hawaiian Airlines and Target's workplace scheduling apps, utilizing modern web technologies for secure authentication and dynamic user interfaces."
+summary: "Created a full-stack web application inspired by Hawaiian Airlines and Target's workplace scheduling apps, utilizing modern web technologies for secure authentication and dynamic user interfaces."
 ---
 
 ## Project Overview
