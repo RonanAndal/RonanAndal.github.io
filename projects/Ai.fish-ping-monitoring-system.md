@@ -12,22 +12,22 @@ labels:
   - PHP
   - Git
   - Postman / Curl
-summary: "Made an automated data web scraper for my internship at the Hawai'i Housing Policy Foundation"
+summary: "Built a real-time ping monitoring system that tracks connectivity of onboard AI devices for fishing vessels using low-powered edge computing."
 ---
 
 ## Project Overview
 
-Github Organization: [Hele-Hale](https://github.com/HHPF-internship/Hele-Hale)
-
 
 <img src="../img/shakashifts_landingpage.png" alt="Shaka Shifts Landing Page" width="599">
 
-The team at the Hawaiʻi Housing Policy Foundation needed an efficient way to collect and analyze real estate transaction data from the Bureau of Conveyances. The existing manual process of opening PDFs, locating sale information, and recording conveyance tax values was slow and prone to error—especially when dealing with thousands of records.
+Ai.Fish is developing edge computing solutions that allow AI-powered cameras to run directly on fishing boats. These systems monitor catches in real time, but they face harsh operating conditions like low power, outages, and days-long trips at sea.
+
+To help ensure uptime and reliability, I built a ping monitoring system in Python that automatically checks whether AI devices are online. The system pings each camera or onboard device every 5 minutes and sends instant alerts to a designated Slack channel if any go offline.
 
 
 <img src="../img/shakashifts-employee-page.png" alt="Shaka Shifts Employee Page" width="700">
 
-To solve this, I built Hele-Hale, a custom Python-based web scraper that automates this entire workflow. It takes raw property sale data, extracts key information from linked PDF documents using OCR, and converts Parcel Numbers into proper TMK (Tax Map Key) format. Hele-Hale processed over 100,000 property transactions in a few hours, enabling faster analysis for housing policy decisions across Hawaiʻi.
+This tool helped the team monitor system health without manual checking and provided a foundation for further alerting and logging tools. It runs directly on the low-powered edge devices used during multi-week fishing trips, supporting Ai.Fish's mission of scalable, sustainable marine monitoring.
 
 <img src="../img/shakashifts-signin.png" alt="Shaka Shifts Sign In Page" width="599">
 
