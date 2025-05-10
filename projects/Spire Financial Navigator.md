@@ -4,8 +4,8 @@ type: project
 image: img/spire.gif
 
 
-title: "Spire fisc nav"
-date: 2025/01
+title: "Spire Fisc Nav"
+date: 2025/05/10
 published: true
 labels:
   - Github
