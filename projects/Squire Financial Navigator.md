@@ -1,23 +1,23 @@
 ---
 layout: project
 type: project
-image: img/thumbnail_shakashifts.gif
+image: img/spire.gif
 
 
-title: "Hele Hale"
+title: "Spire fisc nav"
 date: 2025/01
-published: false
+published: true
 labels:
   - Python
   - PHP
   - Git
   - Postman / Curl
-summary: "Made an automated data web scraper for my internship at the Hawai'i Housing Policy Foundation"
+summary: "Built a financial modeling web application to replace an Excel-based forecasting system for Spire Hawai‘i"
 ---
 
 ## Project Overview
 
-Github Organization: [Shaka-Shifts](https://github.com/ShakaShifts/shakashifts)
+Github Organization: [Shaka-Shifts](https://github.com/team-tres/team-tres-app)
 
 *STILL IN PROGRESS*
 
