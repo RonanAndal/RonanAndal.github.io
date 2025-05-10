@@ -16,9 +16,9 @@ summary: "Built a financial modeling web application to replace an Excel-based f
 
 ## Project Overview
 
-Github Organization: [Shaka-Shifts](https://github.com/team-tres/team-tres-app)
+Github Organization: [Team-Tres-App](https://github.com/team-tres/team-tres-app)
 
-<img src="../img/shakashifts_landingpage.png" alt="Shaka Shifts Landing Page" width="599">
+<img src="../img/sshakashifts_landingpage.png" alt="Spire Fisc Nav Landing Page" width="599">
 
 Spire Fisc Nav is a web application built as part of a semester-long collaboration project with Spire Hawai‘i, a financial advisory firm. The company previously used a complex Excel spreadsheet with multiple tabs and stress-test scenarios to forecast future financial sustainability. Our team was tasked with transforming this system into a user-friendly web-based platform.
 
@@ -35,12 +35,12 @@ With Spire Fisc Nav, users can:
 - Backend logic for scenario calculations
 - API-driven data flow using Express and MongoDB
 
-<img src="../img/shakashifts-employee-page.png" alt="Shaka Shifts Employee Page" width="700">
+<img src="../img/sshakashifts-employee-page.png" alt="Spire Fisc Nav login Page" width="700">
 
 
 *more screenshots of pages on this project*
 
-<img src="../img/shakashifts-signin.png" alt="Shaka Shifts Sign In Page" width="599">
+<img src="../img/sshakashifts-signin.png" alt="Spire Fisc Nav output data" width="599">
 
 
 
