@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-    <img src="../img/heart-pt-414.jpg" width="200px"/>
+    <img src="../img/heart-pt-414.JPG" width="200px"/>
 </div>
 
 <h2>Unexpected</h2> 
