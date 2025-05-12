@@ -11,7 +11,7 @@ labels:
   - Github
   - Team Project
   - Vercel
-summary: "Built a financial modeling web application to replace an Excel-based forecasting system for Spire Hawai‘i"
+summary: "Designed a financial modeling web application to replace an Excel-based forecasting system for Spire Hawai‘i"
 ---
 
 ## Project Overview
