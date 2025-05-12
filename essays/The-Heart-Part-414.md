@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Heart Part 414"
+title: "(ICS) Heart Part 414"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-11
 published: true
@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-    <img src="../img/cotton/111-to-314.jpg" width="200px"/>
+    <img src="../img/heart-pt-414.jpg" width="200px"/>
 </div>
 
 <h2>Unexpected</h2> 
@@ -20,14 +20,14 @@ labels:
 </p>
 
 <p>
-Among the countless nights spent tirelessly typing code for the looming weekly WOD or the lively group meetings with newfound friends gathered around our project table, there exists a profound lesson waiting to be unearthed. Beyond the surface of these moments lies a transformative journey, where the rhythm of keystrokes and the camaraderie of collaboration converge to reveal insights far beyond the realm of syntax and algorithms.
+I learned a lot from this experience, I purposely asked the team to put me in the backend team because my backend development needed work. Even though i was severely carried by the other backend team, it was still a great experience
 </p>
 
 <div style="text-align: center;">
     <img src="../img/cotton/software-engineering.jpeg" />
 </div>
 <h3>Ethics </h3>
-<p>One thing I learned and one of the most important from all this coursework was Ethics in the industry, how it relates to my ethics for myself, and how navigating the ethical landscape of software engineering is as crucial as mastering its technical intricacies. Delving into discussions surrounding privacy, data security, and the responsible use of technology, I discovered that the decisions we make as software engineers extend far beyond the lines of code we write. They ripple through society, shaping perceptions, influencing behaviors, and sometimes even challenging our own moral compass. As I grappled with ethical dilemmas posed in case studies and real-world examples, I found myself confronting not only the ethical standards of the industry but also my own personal values and convictions. This introspective journey urged me to consider not just what I could create, but the impact of my creations on the world around me. It underscored the importance of integrity, empathy, and a steadfast commitment to ethical practice in every facet of my career as a software engineer./p>
+<p>One thing I learned and one of the most important from all this coursework was Ethics in the industry, how it relates to my ethics for myself, and how navigating the ethical landscape of software engineering is as crucial as mastering its technical intricacies. Delving into discussions surrounding privacy, data security, and the responsible use of technology, I discovered that the decisions we make as software engineers extend far beyond the lines of code we write. They ripple through society, shaping perceptions, influencing behaviors, and sometimes even challenging our own moral compass. As I grappled with ethical dilemmas posed in case studies and real-world examples, I found myself confronting not only the ethical standards of the industry but also my own personal values and convictions. This introspective journey urged me to consider not just what I could create, but the impact of my creations on the world around me. It underscored the importance of integrity, empathy, and a steadfast commitment to ethical practice in every facet of my career as a software engineer.</p>
 
 
 <h3>Agile Project Management</h3>
