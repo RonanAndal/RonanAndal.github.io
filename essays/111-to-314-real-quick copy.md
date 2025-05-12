@@ -4,7 +4,7 @@ type: essay
 title: "111 to 314 Real Quick"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-01
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
