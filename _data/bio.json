@@ -44,6 +44,18 @@
   ],
   "work": [
     {
+      "company": "Hawaiian Airlines | Alask Airlines",
+      "position": "Software Engineer Intern",
+      "website": "https://www.hawaiianairlines.com/",
+      "startDate": "2025-6",
+      "endDate": "Present",
+      "summary": "Engineered a Python web application to automate extraction of conveyance tax values, sales prices, and sale dates from Bureau of Conveyance PDF documents, increasing data collection speed by 10x.",
+      "highlights": [
+        "Structured and exported extracted data into spreadsheets for streamlined reporting and housing policy analysis.",
+
+      ]
+    },
+    {
       "company": "Hawaii Housing Policy Foundation",
       "position": "Data Analyst Intern",
       "website": "https://www.hawaiihp.org/",
