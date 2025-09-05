@@ -81,7 +81,7 @@
       "website": "https://www.hawaiianairlines.com/",
       "startDate": "2025-6",
       "endDate": "Present",
-      "summary": "Engineered a Python web application to automate extraction of conveyance tax values, sales prices, and sale dates from Bureau of Conveyance PDF documents, increasing data collection speed by 10x.",
+      "summary": "",
       "highlights": [
         "Contributed to the integration of ATMOS, the combined membership program of Hawaiian and Alaska Airlines.",
         "Integrated Hawaiian Airlines (HA) flight lookup functionality into the Alaska Airlines (AS) website using C#, enabling seamless retrieval of HA reservation data.",
