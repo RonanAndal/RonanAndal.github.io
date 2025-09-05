@@ -7,28 +7,61 @@
     "phone": "808-782-6101",
     "website": "https://RonanAndal.github.io",
     "summary": "",
-    "location": { "address": "", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "",
+      "postalCode": "96817",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "RonanAndal", "url": "http://github.com/RonanAndal" },
-      { "network": "linkedin", "username": "Ronan Russel Andal", "url": "https://www.linkedin.com/in/ronan-russel-andal-783a9a260" }
+      {
+        "network": "github",
+        "username": "RonanAndal",
+        "url": "http://github.com/RonanAndal"
+      },
+      {
+        "network": "linkedin",
+        "username": "Ronan Russel Andal",
+        "url": "https://www.linkedin.com/in/ronan-russel-andal-783a9a260"
+      }
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
-    { "name": "Web Design" },
-    { "name": "Information Technology" },
-    { "name": "Content Creation" },
-    { "name": "Digital Media" },
-    { "name": "Video editing" }
+    {
+      "name": "Software Engineering"
+    },
+    {
+      "name": "Web Design"
+    },
+    {
+      "name": "Information Technology"
+    },
+    {
+      "name": "Content Creation"
+    },
+    {
+      "name": "Digital Media"
+    },
+    {
+      "name": "Video editing"
+    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["Java", "Javascript", "HTML"]
+      "keywords": [
+        "Java",
+        "Javascript",
+        "HTML"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [
+        "MacOS",
+        "Git/GitHub"
+      ]
     }
   ],
   "education": [
@@ -38,8 +71,7 @@
       "studyType": "B.S.",
       "startDate": "2020-08-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -51,8 +83,9 @@
       "endDate": "Present",
       "summary": "Engineered a Python web application to automate extraction of conveyance tax values, sales prices, and sale dates from Bureau of Conveyance PDF documents, increasing data collection speed by 10x.",
       "highlights": [
-        "Structured and exported extracted data into spreadsheets for streamlined reporting and housing policy analysis.",
-
+        "Contributed to the integration of ATMOS, the combined membership program of Hawaiian and Alaska Airlines.",
+        "Integrated Hawaiian Airlines (HA) flight lookup functionality into the Alaska Airlines (AS) website using C#, enabling seamless retrieval of HA reservation data.",
+        "Developed and deployed a Sumo Logic dashboard to monitor HA lookup success and failure rates, providing real-time visibility for engineering and product teams."
       ]
     },
     {
@@ -64,7 +97,6 @@
       "summary": "Engineered a Python web application to automate extraction of conveyance tax values, sales prices, and sale dates from Bureau of Conveyance PDF documents, increasing data collection speed by 10x.",
       "highlights": [
         "Structured and exported extracted data into spreadsheets for streamlined reporting and housing policy analysis.",
-
       ]
     },
     {
@@ -74,9 +106,7 @@
       "startDate": "2024-11",
       "endDate": "Present",
       "summary": "Trained under IT professionals to deliver technical support, resolving hardware, software, and network issues for faculty, staff, and students.",
-      "highlights": [
-
-      ]
+      "highlights": []
     },
     {
       "company": "UH Manoa TPSS",
@@ -113,8 +143,7 @@
         "Enhanced customer satisfaction by providing attentive service and promptly addressing dinner needs",
         "Assisted in the setup and breakdown of events, ensuring  timely completion and smooth operations"
       ]
-    }
-  ,
+    },
     {
       "company": "Target Starbucks",
       "position": "Barista",
@@ -127,8 +156,7 @@
         "Occasionally called upon to assist the tech department during busy periods.",
         "Taught to order our stock for the week and did it for my team at times when she was too busy"
       ]
-    }
-    ,
+    },
     {
       "company": "Magnolia Ice Cream and Treats",
       "position": "Ice Cream Salesman",
@@ -142,7 +170,6 @@
       ]
     }
   ],
-
   "references": [
     {
       "name": "Available upon request"
