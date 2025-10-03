@@ -15,17 +15,13 @@ summary: "Developed a smart mirror prototype using Raspberry Pi and custom softw
 
 ## Project Overview
 
-Website: <a href = "https://www.uhot.org/">UHOT</a>
-
-More details about my job and what they do : <a href="https://manoa.hawaii.edu/ctahr/tpss/"> Department of Tropical Plants and Soil Sciences </a>
 
 
-
-During my free time on summer, I had a monitor I didn't have any use for, and I was scrolling through facebook marketplace one day and noticed a raspberry pi going for relatively cheap so I thought why not start this project.
+Over the summer, I repurposed an unused monitor and, after finding an affordable Raspberry Pi on Facebook Marketplace, decided to initiate this project as a way to explore practical applications of embedded systems and IoT
 
 
 
-<p><img src="../img/uhot-resourcespage.png" alt="UHOT Landing Page" width=400> <img src="../img/uhot-homepage.png" alt="UHOT Landing Page" width=400></p>
+<p><img src="../img/smart-mirror.jpeg" alt="UHOT Landing Page" width=400> <img src="../img/uhot-homepage.png" alt="UHOT Landing Page" width=400></p>
 
 
 
