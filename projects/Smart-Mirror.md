@@ -1,12 +1,12 @@
 ---
 layout: project
 type: project
-image: img/cotton/thumbnail_uhot.gif
+image: img/smart-mirror.jpeg
 
 
 title: "Smart mirror"
-date: 2024/10
-published: false
+date: 2024/06
+published: true
 labels:
   - Computer Engineering
   - Raspberry Pi
@@ -21,7 +21,7 @@ More details about my job and what they do : <a href="https://manoa.hawaii.edu/c
 
 
 
-A significant aspect of my role centered around managing and enhancing the UHOT website, where I utilized my skills in Wix, JavaScript, and HTML to develop a more engaging, interactive platform. Beyond routine updates, I integrated dynamic content elements to keep the website relevant with the latest research, findings, and events in organic farming. By implementing custom HTML and JavaScript, I was able to fine-tune the design and interactivity, allowing for a more user-friendly navigation and a visually appealing layout that effectively conveys the project's mission. Leveraging Wix’s design tools, I optimized visual components, updated layouts, and streamlined navigation, aiming to make the website a valuable, accessible resource for seasoned organic farmers and newcomers to sustainable agriculture alike. Through these efforts, I transformed the UHOT website into a dynamic, informative hub that aligns with the evolving needs of its audience.
+During my free time on summer, I had a monitor I didn't have any use for, and I was scrolling through facebook marketplace one day and noticed a raspberry pi going for relatively cheap so I thought why not start this project.
 
 
 
