@@ -4,7 +4,7 @@ type: project
 image: img/smart-mirror.jpeg
 
 
-title: "Smart mirror"
+title: "Smart Mirror"
 date: 2024/06
 published: true
 labels:
