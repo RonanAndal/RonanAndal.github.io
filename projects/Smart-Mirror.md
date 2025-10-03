@@ -6,7 +6,7 @@ image: img/smart-mirror.jpeg
 
 title: "Smart Mirror"
 date: 2024/06
-published: true
+published: false
 labels:
   - Computer Engineering
   - Raspberry Pi

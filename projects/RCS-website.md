@@ -5,21 +5,21 @@ image: img/cotton/thumbnail_uhot.gif
 
 
 title: "Rural Community Solutions Website"
-date: 2024/10
+date: 2025/10
 published: false
 labels:
   - Google Sites
   - HTML
   - CSS
   - Web Design
-summary: "Designed and developed a website for Rural Community Solutions, a nonprofit founded by coworker Sarah Benimana, to support building libraries in Rwanda."
+summary: "Designed and developed a website for Rural Community Solutions, a nonprofit founded by my friend Sarah Benimana, to support building libraries in Rwanda."
 ---
 
 ## Project Overview
 
 Website: <a href = "https://www.uhot.org/">UHOT</a>
 
-More details about my job and what they do : <a href="https://manoa.hawaii.edu/ctahr/tpss/"> Department of Tropical Plants and Soil Sciences </a>
+More details about Sarah's non profit and what she does <a href="https://manoa.hawaii.edu/ctahr/tpss/"> Contact me if you want to support </a>
 
 
 
