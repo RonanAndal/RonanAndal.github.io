@@ -21,7 +21,7 @@ Website: *still waiting to be published by Sarah*
 
 my rough draft I presented to Sarah initially:  <a href = "https://rural-cs.github.io/"> link<a>
 
-<p><img src="../img/rcs-whoweare.png" alt="RCS Landing Page" width=400> <img src="../img/rcs-landingpage.gif" alt="RCS Landing Page" width=400></p>
+<p><img src="../img/rcs-whoweare.png" alt="RCS Landing Page" width=400> <img src="../img/rcs-landingpage.gif" alt="RCS Landing Page" width=420></p>
 
 ## Sarah's Non Profit
 
