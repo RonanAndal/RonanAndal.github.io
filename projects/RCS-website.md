@@ -17,7 +17,7 @@ summary: "Developed a website for Rural Community Solutions, a nonprofit organiz
 
 ## Project Overview
 
-Website: *still waiting to be published by Sarah*
+Website: *still waiting to be published by Sarah Benimana*
 
 my rough draft I presented to Sarah initially:  <a href = "https://rural-cs.github.io/"> link<a>
 
