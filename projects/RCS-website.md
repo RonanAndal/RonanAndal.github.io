@@ -12,7 +12,7 @@ labels:
   - HTML
   - CSS
   - Web Design
-summary: "Designed and developed a website for Rural Community Solutions, a nonprofit founded by my friend Sarah Benimana, to support building libraries in Rwanda."
+summary: "Developed a website for RCS, a nonprofit founded by my friend Sarah Benimana, to support building libraries in Rwanda."
 ---
 
 ## Project Overview
@@ -21,7 +21,7 @@ Website: <a href = "https://www.uhot.org/">UHOT</a>
 
 More details about Sarah's non profit and what she does <a href="https://manoa.hawaii.edu/ctahr/tpss/"> Contact me if you want to support </a>
 
-Sarah 
+Site is not published yet but 
 
 
 
