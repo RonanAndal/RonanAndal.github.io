@@ -28,4 +28,4 @@ my rough draft I presented to Sarah initially:  <a href = "https://rural-cs.gith
 When Sarah came to me seeking a website for her nonprofit, I knew how important it was to capture her goals and message clearly. I committed to delivering a professional and impactful site, ensuring her work could be shared with a wider audience. 
 
 
-<p><img src="../img/rcs-about.gif" alt="RCS about Page" width="400"> <img src="../img/uhot-newspage.png" alt = "UHOT News Page" width="400"></p>
+<p><img src="../img/rcs-about.gif" alt="RCS about Page" width="400"> <img src="../img/rcs-takeaction.png" alt = "RCS Take Action Page" width="400"></p>
