@@ -31,7 +31,7 @@ When Sarah came to me seeking a website for her nonprofit, I knew how important 
 <p><img src="../img/uhot-osp.png" alt="UHOT Home Page" width="400"> <img src="../img/uhot-newspage.png" alt = "UHOT News Page" width="400"></p>
 
 
-Throughout my position, I discovered just how much I love the creative side of building a website. Each project, from enhancing visual layouts to optimizing user interactions, gave me the opportunity to think innovatively and explore design choices that could make a meaningful impact on the user experience.
+
 
 
 <p><img src="../img/uhot-osp-explained.png" alt = "UHOT osp explained page" width="599"></p>
