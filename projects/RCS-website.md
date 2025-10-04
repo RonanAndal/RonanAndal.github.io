@@ -29,10 +29,3 @@ When Sarah came to me seeking a website for her nonprofit, I knew how important 
 
 
 <p><img src="../img/rcs-about.gif" alt="RCS about Page" width="400"> <img src="../img/uhot-newspage.png" alt = "UHOT News Page" width="400"></p>
-
-
-
-
-
-<p><img src="../img/uhot-osp-explained.png" alt = "UHOT osp explained page" width="599"></p>
-
