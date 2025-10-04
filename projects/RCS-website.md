@@ -1,12 +1,12 @@
 ---
 layout: project
 type: project
-image: img/cotton/thumbnail_uhot.gif
+image: img/cotton/thumbnail_rcs.gif
 
 
 title: "Rural Community Solutions Website"
 date: 2025/10
-published: false
+published: true
 labels:
   - Google Sites
   - HTML
