@@ -25,7 +25,7 @@ my rough draft I presented to Sarah initially:  <a href = "https://rural-cs.gith
 
 ## Sarah's Non Profit
 
-When Sarah came to me seeking a website for her nonprofit, I knew how important it was to capture her goals and message clearly. I committed to delivering a professional and impactful site, ensuring her work could be shared with a wider audience.
+When Sarah came to me seeking a website for her nonprofit, I knew how important it was to capture her goals and message clearly. I committed to delivering a professional and impactful site, ensuring her work could be shared with a wider audience. 
 
 
 <p><img src="../img/uhot-osp.png" alt="UHOT Home Page" width="400"> <img src="../img/uhot-newspage.png" alt = "UHOT News Page" width="400"></p>
