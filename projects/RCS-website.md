@@ -17,19 +17,13 @@ summary: "Developed a website for RCS, a nonprofit founded by my friend Sarah Be
 
 ## Project Overview
 
-Website: <a href = "https://www.uhot.org/">UHOT</a>
-
-More details about Sarah's non profit and what she does <a href="https://manoa.hawaii.edu/ctahr/tpss/"> Contact me if you want to support </a>
-
-Site is not published yet but 
-
-
+Website: *still waiting to be published by Sarah*
 
 <p><img src="../img/uhot-resourcespage.png" alt="UHOT Landing Page" width=400> <img src="../img/uhot-homepage.png" alt="UHOT Landing Page" width=400></p>
 
 
 
-## Site Details
+## Sarah's Non Profit
 
 The University of Hawaiʻi Organic Transition (UHOT) website is designed to guide and support those interested in making a shift towards organic methods. The UHOT site serves as a hub of resources, offering insights into organic techniques, case studies, and research updates, while also providing tools to connect with the broader community. Whether you're seeking guidance on organic methods or looking to engage with others committed to sustainable agriculture, the UHOT website is here to support and inspire a collaborative journey toward a greener future.
 
