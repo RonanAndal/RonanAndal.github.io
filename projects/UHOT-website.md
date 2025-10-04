@@ -12,7 +12,7 @@ labels:
   - HTML
   - Javascript
   - CSS
-  - Web Design
+  - Web Development
 summary: "Updated and maintained the website for my position at UH Manoa"
 ---
 
