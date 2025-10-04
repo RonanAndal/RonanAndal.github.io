@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/thumbnail_rcs.gif
+image: img/thumbnail_rcs.gif
 
 
 title: "Rural Community Solutions Website"
@@ -21,9 +21,7 @@ Website: <a href = "https://www.uhot.org/">UHOT</a>
 
 More details about Sarah's non profit and what she does <a href="https://manoa.hawaii.edu/ctahr/tpss/"> Contact me if you want to support </a>
 
-
-
-A significant aspect of my role centered around managing and enhancing the UHOT website, where I utilized my skills in Wix, JavaScript, and HTML to develop a more engaging, interactive platform. Beyond routine updates, I integrated dynamic content elements to keep the website relevant with the latest research, findings, and events in organic farming. By implementing custom HTML and JavaScript, I was able to fine-tune the design and interactivity, allowing for a more user-friendly navigation and a visually appealing layout that effectively conveys the project's mission. Leveraging Wix’s design tools, I optimized visual components, updated layouts, and streamlined navigation, aiming to make the website a valuable, accessible resource for seasoned organic farmers and newcomers to sustainable agriculture alike. Through these efforts, I transformed the UHOT website into a dynamic, informative hub that aligns with the evolving needs of its audience.
+Sarah 
 
 
 
