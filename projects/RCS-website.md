@@ -4,7 +4,7 @@ type: project
 image: img/thumbnail_rcs.gif
 
 
-title: "Rural Community Solutions Website"
+title: "Rural Community Solutions"
 date: 2025/10
 published: true
 labels:
