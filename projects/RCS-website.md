@@ -19,13 +19,13 @@ summary: "Developed a website for RCS, a nonprofit founded by my friend Sarah Be
 
 Website: *still waiting to be published by Sarah*
 
-<p><img src="../img/uhot-resourcespage.png" alt="UHOT Landing Page" width=400> <img src="../img/uhot-homepage.png" alt="UHOT Landing Page" width=400></p>
+my rough draft I presented to Sarah initially:  <a href = "https://rural-cs.github.io/"> link<a>
 
-
+<p><img src="../img/rcs-homepage.png" alt="RCS Landing Page" width=400> <img src="../img/rcs-landingpage.gif" alt="RCS Landing Page" width=400></p>
 
 ## Sarah's Non Profit
 
-The University of Hawaiʻi Organic Transition (UHOT) website is designed to guide and support those interested in making a shift towards organic methods. The UHOT site serves as a hub of resources, offering insights into organic techniques, case studies, and research updates, while also providing tools to connect with the broader community. Whether you're seeking guidance on organic methods or looking to engage with others committed to sustainable agriculture, the UHOT website is here to support and inspire a collaborative journey toward a greener future.
+When Sarah came to me seeking a website for her nonprofit, I knew how important it was to capture her goals and message clearly. I committed to delivering a professional and impactful site, ensuring her work could be shared with a wider audience.
 
 
 <p><img src="../img/uhot-osp.png" alt="UHOT Home Page" width="400"> <img src="../img/uhot-newspage.png" alt = "UHOT News Page" width="400"></p>
