@@ -62,7 +62,13 @@
       "name": "Toolsets/OS",
       "keywords": [
         "MacOS",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Git",
+        "Visual Studio Code",
+        "dotnet",
+        "IntelliJ Idea",
+        "Adobe Premiere Pro",
+        "Wix"
       ]
     }
   ],
