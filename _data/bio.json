@@ -93,7 +93,7 @@
       "highlights": [
         "Integrated ATMOS, the joint loyalty program for Hawaiian and Alaska Airlines, ensuring seamless account migration for 2M+ customers during merger transition.",
         "Implemented HA flight lookup integration into the AS site using C#, achieving 99.9% reliability in retrieving cross-airline reservations.",
-        "Developed and deployed a Sumo Logic dashboard to monitor HA lookup success and failure rates, providing real-time visibility for engineering and product teams."
+        "Deployed a Sumo Logic dashboard monitoring HA lookup success/failure rates, improving issue detection speed by 40% for engineers"
       ]
     },
     {
